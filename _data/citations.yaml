@@ -1,1902 +1,1907 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: "doi:10.1007/978-981-95-3612-2_14"
-  title: "Applications of nanotechnology in healthcare"
-  authors:
-  - "Md Jahirul Islam"
-  - "Mohammad Al Mamun"
-  - "Abu Hashem"
-  publisher: "Biotechnological Advances in Healthomics, 375–409"
-  date: "2026-01-01"
-  link: "https://doi.org/10.1007/978-981-95-3612-2_14"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.1007/978-981-95-3612-2_14"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Applications%20of%20nanotechnology%20in%20healthcare"
-  tags:
-  - "biosensors"
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- id: "doi:10.1016/B978-0-443-26627-0.00013-0"
-  title: "Graphene from lab to fab: challenges and opportunities"
-  authors:
-  - "Mohammad Al Mamun"
-  - "Abu Hashem"
-  - "Yasmin Abdul Wahab"
-  - "Ab Rahman Marlinda"
-  - "MA Motalib Hossain"
-  - "Mohd Rafie Johan"
-  publisher: "Graphene: Synthesis, Properties, Technology and Applications, 343–369"
-  date: "2026-01-01"
-  link: "https://doi.org/10.1016/B978-0-443-26627-0.00013-0"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.1016/B978-0-443-26627-0.00013-0"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Graphene%20from%20lab%20to%20fab%3A%20challenges%20and%20opportunities"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "New Perspective on Functionalized Metal Nanoparticles and Two-Dimensional Nanomaterials-Based Composites for Electrochemical Biomarker Sensing and Energy Storage Devices"
-  authors:
-  - "Ab Rahman Marlinda"
-  - "Gregory Soon How Thien"
-  - "Mohd Arif Mohd Sarjidan"
-  - "Abu Hashem"
-  - "Mohammad Al Mamun"
-  - "Khairul Anwar Ishak"
-  - "Elmuez Dawi"
-  - "Atef AbdElKader"
-  - "Abd Al Karim Haj Ismail"
-  - "Rafat M Ibrahim"
-  - "et al."
-  publisher: "The Chemical Record, e202500315"
-  date: "2026-01-01"
-  link: "https://scholar.google.com/scholar?q=New%20Perspective%20on%20Functionalized%20Metal%20Nanoparticles%20and%20Two-Dimensional%20Nanomaterials-Based%20Composites%20for%20Electrochemical%20Biomarker%20Sensing%20and%20Energy%20Storage%20Devices"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=New%20Perspective%20on%20Functionalized%20Metal%20Nanoparticles%20and%20Two-Dimensional%20Nanomaterials-Based%20Composites%20for%20Electrochemical%20Biomarker%20Sensing%20and%20Energy%20Storage%20Devices"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- id: "doi:10.1007/s12602-025-10775-0"
-  title: "Three Characterized Probiotics from Dairy Sources—Weissella confusa (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)—Exhibit Potential for Antidiarrheal Effects"
-  authors:
-  - "Jannatul Ferdous"
-  - "Md. Saddam Hossain"
-  - "Palash Kumar Sarker"
-  - "Md. Shimul Bhuia"
-  - "Md. Sakib Al Hasan"
-  - "Raihan Chowdhury"
-  - "Md. Sarafat Ali"
-  - "Md. Robiul Auwal"
-  - "Keshob Chandra Das"
-  - "Muhammad Torequl Islam"
-  - "Abu Hashem"
-  - "Md. Salimullah"
-  publisher: "Probiotics and Antimicrobial Proteins, 18(3), 4380–4395"
-  date: "2026-01-01"
-  link: "https://doi.org/10.1007/s12602-025-10775-0"
-  type: "paper"
-  image: "images/pub-probiotics-2026.svg"
-  description: "Characterizes three indigenous dairy-derived lactic acid bacterial strains and evaluates their gastrointestinal resilience, safety, and antidiarrheal potential."
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.1007/s12602-025-10775-0"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Three%20Characterized%20Probiotics%20from%20Dairy%20Sources%E2%80%94Weissella%20confusa%20(ProY%205.1)%2C%20Enterococcus%20lactis%20(ProY%205.3)%2C%20and%20Leuconostoc%20lactis%20(RM%202.1)%E2%80%94Exhibit%20Potential%20for%20Antidiarrheal%20Effects"
-  tags:
-  - "probiotics"
-  - "amr"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- id: "doi:10.1016/j.microb.2025.100562"
-  title: "A Comprehensive Pangenome Approach to Exploring the Probiotic Potential of Weissella Confusa"
-  authors:
-  - "Md Saddam Hossain"
-  - "Shanjana Rahman Tuli"
-  - "Nigar Fatima"
-  - "Sobur Ali"
-  - "Shovan Basak Moon"
-  - "Abu Hashem"
-  publisher: "The Microbe, 100562"
-  date: "2025-01-01"
-  link: "https://doi.org/10.1016/j.microb.2025.100562"
-  type: "paper"
-  image: "images/pub-weissella-2025.svg"
-  description: "Comparative pangenome-scale analysis mapping core and accessory probiotic traits, carbohydrate-active enzymes, and safety determinants across Weissella confusa."
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.1016/j.microb.2025.100562"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=A%20Comprehensive%20Pangenome%20Approach%20to%20Exploring%20the%20Probiotic%20Potential%20of%20Weissella%20Confusa"
-  tags:
-  - "probiotics"
-  - "genomics"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- id: "doi:10.1007/978-3-031-97481-6_9"
-  title: "Advances in microbial-based electrochemical biosensors for heavy metal detection"
-  authors:
-  - "Ab Rahman Marlinda"
-  - "Norazriena Yusoff"
-  - "Abu Hashem"
-  - "Suresh Sagadevan"
-  publisher: "Advances in Biomaterials Research, 355–370"
-  date: "2025-01-01"
-  link: "https://doi.org/10.1007/978-3-031-97481-6_9"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.1007/978-3-031-97481-6_9"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Advances%20in%20microbial-based%20electrochemical%20biosensors%20for%20heavy%20metal%20detection"
-  tags:
-  - "biosensors"
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- id: "doi:10.71193/jcid.20250002"
-  title: "Antioxidant activity of promising probiotic potential Lactobacillus plantarum: a review"
-  authors:
-  - "Jannatul Ferdous"
-  - "Raihan Chowdhury"
-  - "Md Sarafat Ali"
-  - "Abu Hashem"
-  publisher: "Journal of Chemistry Insights and Discoveries, 1(01), 1–6"
-  date: "2025-01-01"
-  link: "https://doi.org/10.71193/jcid.20250002"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.71193/jcid.20250002"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Antioxidant%20activity%20of%20promising%20probiotic%20potential%20Lactobacillus%20plantarum%3A%20a%20review"
-  tags:
-  - "probiotics"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Application of Biomaterials for Tissue Engineering"
-  authors:
-  - "Abu Hashem"
-  - "Ab Rahman Marlinda"
-  - "MA Motalib Hossain"
-  - "Mohammad Al Mamun"
-  - "Khanom Simarani"
-  - "Mohd Rafie Johan"
-  publisher: "Advances in Biomaterials Research, 121–166"
-  date: "2025-01-01"
-  link: "https://scholar.google.com/scholar?q=Application%20of%20Biomaterials%20for%20Tissue%20Engineering"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Application%20of%20Biomaterials%20for%20Tissue%20Engineering"
-  tags:
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- id: "doi:10.1007/s11756-025-01866-y"
-  title: "Exploration of the metabolic potential of the Corallococcus genus: a rich source of secondary metabolites and CAZymes"
-  authors:
-  - "Md Saddam Hossain"
-  - "Shanjana Rahman Tuli"
-  - "Nigar Fatima"
-  - "Md Tauhidul Islam Tanim"
-  - "Abu Hashem"
-  publisher: "Biologia, 80(3), 685–696"
-  date: "2025-01-01"
-  link: "https://doi.org/10.1007/s11756-025-01866-y"
-  type: "paper"
-  image: "images/pub-corallococcus-2025.svg"
-  description: "Genome-wide biosynthetic gene cluster (BGC) and CAZyme repertoire mining across myxobacterial Corallococcus genomes for natural-product discovery."
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.1007/s11756-025-01866-y"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Exploration%20of%20the%20metabolic%20potential%20of%20the%20Corallococcus%20genus%3A%20a%20rich%20source%20of%20secondary%20metabolites%20and%20CAZymes"
-  tags:
-  - "drug-discovery"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- id: "doi:10.1016/j.jgeb.2025.100508"
-  title: "Exploring the antibacterial potential of environmental Pseudomonas aeruginosa isolates: Insights from in vitro studies and genome mining approaches"
-  authors:
-  - "Md Saddam Hossain"
-  - "Afroza Aktar Sharna"
-  - "Sumaiya Sharmin"
-  - "Tahrima Arman Tusty"
-  - "Abu Hashem"
-  - "Palash Kumar Sarker"
-  publisher: "Journal of Genetic Engineering and Biotechnology, 23(3), 100508"
-  date: "2025-01-01"
-  link: "https://doi.org/10.1016/j.jgeb.2025.100508"
-  type: "paper"
-  image: "images/pub-pseudomonas-2025.svg"
-  description: "Integrates in vitro antibacterial screening of environmental isolates with whole-genome secondary-metabolite cluster analysis."
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.1016/j.jgeb.2025.100508"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Exploring%20the%20antibacterial%20potential%20of%20environmental%20Pseudomonas%20aeruginosa%20isolates%3A%20Insights%20from%20in%20vitro%20studies%20and%20genome%20mining%20approaches"
-  tags:
-  - "genomics"
-  - "drug-discovery"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "From sequence to significance: A thorough investigation of the distinctive genome features uncovered in C. Werkmanii strain NIB003"
-  authors:
-  - "Mohammad Uzzal Hossain"
-  - "Neyamat Khan Tanvir"
-  - "ABZ Naimur Rahman"
-  - "Zeshan Mahmud Chowdhury"
-  - "Md Shahadat Hossain"
-  - "Shajib Dey"
-  - "Arittra Bhattacharjee"
-  - "Ishtiaque Ahammad"
-  - "Umme Salma Zohora"
-  - "Abu Hashem"
-  - "et al."
-  publisher: "Gene, 933, 148965"
-  date: "2025-01-01"
-  link: "https://scholar.google.com/scholar?q=From%20sequence%20to%20significance%3A%20A%20thorough%20investigation%20of%20the%20distinctive%20genome%20features%20uncovered%20in%20C.%20Werkmanii%20strain%20NIB003"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=From%20sequence%20to%20significance%3A%20A%20thorough%20investigation%20of%20the%20distinctive%20genome%20features%20uncovered%20in%20C.%20Werkmanii%20strain%20NIB003"
-  tags:
-  - "genomics"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Linking Genomic Landscape to Disease Mechanism: Core Genetic Factors Underlying Pathogenesis and Antimicrobial Resistance in Diarrheal Pathogens"
-  authors:
-  - "Mohammad Uzzal Hossain"
-  - "Marjia Akter Suchi"
-  - "Zeba Sanjida"
-  - "ABZ Naimur Rahman"
-  - "Mohammad Nazmus Sakib"
-  - "SM Sajid Hasan"
-  - "Md Ekram Hossan"
-  - "Abu Nayeem Ahmed"
-  - "Mahmudul Hasan"
-  - "Tamal Paul"
-  - "et al."
-  publisher: "bioRxiv, 2025–08"
-  date: "2025-01-01"
-  link: "https://scholar.google.com/scholar?q=Linking%20Genomic%20Landscape%20to%20Disease%20Mechanism%3A%20Core%20Genetic%20Factors%20Underlying%20Pathogenesis%20and%20Antimicrobial%20Resistance%20in%20Diarrheal%20Pathogens"
-  type: "preprint"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Linking%20Genomic%20Landscape%20to%20Disease%20Mechanism%3A%20Core%20Genetic%20Factors%20Underlying%20Pathogenesis%20and%20Antimicrobial%20Resistance%20in%20Diarrheal%20Pathogens"
-  tags:
-  - "genomics"
-  - "amr"
-  - "preprint"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "More land, more diverse diets? Exploring production and consumption trade-offs in the eastern Indo-Gangetic plains"
-  authors:
-  - "Sreejith Aravindakshan"
-  - "Alison Laing"
-  - "Mustafa Kamal"
-  - "Saral Karki"
-  - "Ravi Nandi"
-  - "Pankaj Koirala"
-  - "Pushpa Poudel"
-  - "Palash Sarker"
-  - "Zannatul Ferdous"
-  - "Md Abu Sayem"
-  - "et al."
-  publisher: "IFPRI book chapters, 50–61"
-  date: "2025-01-01"
-  link: "https://scholar.google.com/scholar?q=More%20land%2C%20more%20diverse%20diets%3F%20Exploring%20production%20and%20consumption%20trade-offs%20in%20the%20eastern%20Indo-Gangetic%20plains"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=More%20land%2C%20more%20diverse%20diets%3F%20Exploring%20production%20and%20consumption%20trade-offs%20in%20the%20eastern%20Indo-Gangetic%20plains"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- id: "doi:10.1016/j.neulet.2024.138007"
-  title: "Phytol exerts sedative-like effects and modulates the diazepam and flumazenil’s action, possibly through the GABAA receptor interaction pathway"
-  authors:
-  - "Md Torequl Islam"
-  - "Jannatul Ferdous"
-  - "Md Sakib Al Hasan"
-  - "Abu Hashem"
-  - "Mehedi Hasan Bappi"
-  - "Siddique Akber Ansari"
-  - "Md Amirul Islam"
-  - "Md Saifuzzaman"
-  publisher: "Neuroscience Letters, 842, 138007"
-  date: "2024-01-01"
-  link: "https://doi.org/10.1016/j.neulet.2024.138007"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.1016/j.neulet.2024.138007"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Phytol%20exerts%20sedative-like%20effects%20and%20modulates%20the%20diazepam%20and%20flumazenil%E2%80%99s%20action%2C%20possibly%20through%20the%20GABAA%20receptor%20interaction%20pathway"
-  tags:
-  - "drug-discovery"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "A unique oligonucleotide probe hybrid on graphene decorated gold nanoparticles modified screen-printed carbon electrode for pork meat adulteration"
-  authors:
-  - "Abu Hashem"
-  - "Ab Rahman Marlinda"
-  - "MA Motalib Hossain"
-  - "Mohammad Al Mamun"
-  - "Md Shalauddin"
-  - "Khanom Simarani"
-  - "Mohd Rafie Johan"
-  publisher: "Electrocatalysis, 14(2), 179–194"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=A%20unique%20oligonucleotide%20probe%20hybrid%20on%20graphene%20decorated%20gold%20nanoparticles%20modified%20screen-printed%20carbon%20electrode%20for%20pork%20meat%20adulteration"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=A%20unique%20oligonucleotide%20probe%20hybrid%20on%20graphene%20decorated%20gold%20nanoparticles%20modified%20screen-printed%20carbon%20electrode%20for%20pork%20meat%20adulteration"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Determination of the Aptamer Probe Density by double layer and redox capacitance of CNT-based electrochemical DNA-Aptasensors"
-  authors:
-  - "Mohammad Al Mamun"
-  - "Yasmin Abdul Wahab"
-  - "MA Motalib Hossain"
-  - "Abu Hashem"
-  - "Mohd Rafie Johan"
-  - "Nurul Ezaila Alias"
-  - "Hanim Hussin"
-  - "Maizan Muhamad"
-  publisher: "2023 IEEE Regional Symposium on Micro and Nanoelectronics (RSM), 74–77"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=Determination%20of%20the%20Aptamer%20Probe%20Density%20by%20double%20layer%20and%20redox%20capacitance%20of%20CNT-based%20electrochemical%20DNA-Aptasensors"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Determination%20of%20the%20Aptamer%20Probe%20Density%20by%20double%20layer%20and%20redox%20capacitance%20of%20CNT-based%20electrochemical%20DNA-Aptasensors"
-  tags:
-  - "biosensors"
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Differential Pulse Voltammetric Tuning of the Screen-Printed Carbon Electrode Surface to Enhance the Electrochemical Performance and Multiplex Detection"
-  authors:
-  - "Mohammad Al Mamun"
-  - "Yasmin Abdul Wahab"
-  - "MA Motalib Hossain"
-  - "Abu Hashem"
-  - "Nor Aliya Hamizi"
-  - "Zaira Zaman Chowdhury"
-  - "Sharifah Fatmadiana Wan Muhamad Hattad"
-  - "Irfan Anjum Badruddin"
-  - "Sarfaraz Kamangar"
-  - "Mohd Rafie Johan"
-  publisher: "Journal of The Electrochemical Society, 170(7), 076510"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=Differential%20Pulse%20Voltammetric%20Tuning%20of%20the%20Screen-Printed%20Carbon%20Electrode%20Surface%20to%20Enhance%20the%20Electrochemical%20Performance%20and%20Multiplex%20Detection"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Differential%20Pulse%20Voltammetric%20Tuning%20of%20the%20Screen-Printed%20Carbon%20Electrode%20Surface%20to%20Enhance%20the%20Electrochemical%20Performance%20and%20Multiplex%20Detection"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "DNA-Aptamer–Based Electrochemical Biosensors for the Detection of Thrombin: Fundamentals and Applications"
-  authors:
-  - "Mohammad Al Mamun"
-  - "Yasmin Abdul Wahab"
-  - "MA Motalib Hossain"
-  - "Abu Hashem"
-  - "Mohd Rafie Johan"
-  publisher: "Functional Nanomaterials for Sensors, 201–221"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=DNA-Aptamer%E2%80%93Based%20Electrochemical%20Biosensors%20for%20the%20Detection%20of%20Thrombin%3A%20Fundamentals%20and%20Applications"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=DNA-Aptamer%E2%80%93Based%20Electrochemical%20Biosensors%20for%20the%20Detection%20of%20Thrombin%3A%20Fundamentals%20and%20Applications"
-  tags:
-  - "biosensors"
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "From Sequence to Significance: A Thorough Investigation of the Distinctive Genome Traits Uncovered in C. werkmanii strain NIB003"
-  authors:
-  - "Mohammad Uzzal Hossain"
-  - "Neyamat Khan Tanvir"
-  - "Zeshan Mahmud Chowdhury"
-  - "ABZ Naimur Rahman"
-  - "Md Shahadat Hossain"
-  - "Shajib Dey"
-  - "Arittra Bhattacharjee"
-  - "Ishtiaqe Ahmed"
-  - "Abu Hashem"
-  - "Keshob Chandra Das"
-  - "et al."
-  publisher: "bioRxiv, 2023–11"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=From%20Sequence%20to%20Significance%3A%20A%20Thorough%20Investigation%20of%20the%20Distinctive%20Genome%20Traits%20Uncovered%20in%20C.%20werkmanii%20strain%20NIB003"
-  type: "preprint"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=From%20Sequence%20to%20Significance%3A%20A%20Thorough%20Investigation%20of%20the%20Distinctive%20Genome%20Traits%20Uncovered%20in%20C.%20werkmanii%20strain%20NIB003"
-  tags:
-  - "genomics"
-  - "preprint"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Genome Mining of Salinispora Uncovers a Repertoire of Secondary Metabolites and Carbohydrate-Active Enzymes"
-  authors:
-  - "Md Saddam Hossain"
-  - "Md Tarikul Islam"
-  - "Md Hadisur Rahman"
-  - "Abdullah Al Zubaer"
-  - "Abu Hashem"
-  publisher: "bioRxiv, 2023–09"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=Genome%20Mining%20of%20Salinispora%20Uncovers%20a%20Repertoire%20of%20Secondary%20Metabolites%20and%20Carbohydrate-Active%20Enzymes"
-  type: "preprint"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Genome%20Mining%20of%20Salinispora%20Uncovers%20a%20Repertoire%20of%20Secondary%20Metabolites%20and%20Carbohydrate-Active%20Enzymes"
-  tags:
-  - "genomics"
-  - "microbial-enzymes"
-  - "drug-discovery"
-  - "preprint"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Genome-Wide Exploration of the Opportunistic Providencia stuartii Unveils the Novel Genetic Interactions with the Virulence Gene of Diarrheal Pathogens"
-  authors:
-  - "Mohammad Uzzal Hossain"
-  - "Md Shahadat Hossain"
-  - "ABZ Naimur Rahman"
-  - "Shajib Dey"
-  - "Zeshan Mahmud Chowdhury"
-  - "Arittra Bhattacharjee"
-  - "Ishtiaque Ahammad"
-  - "Md Abdul Aziz"
-  - "Abu Hashem"
-  - "Keshob Chandra Das"
-  - "et al."
-  publisher: "bioRxiv, 2023–11"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=Genome-Wide%20Exploration%20of%20the%20Opportunistic%20Providencia%20stuartii%20Unveils%20the%20Novel%20Genetic%20Interactions%20with%20the%20Virulence%20Gene%20of%20Diarrheal%20Pathogens"
-  type: "preprint"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Genome-Wide%20Exploration%20of%20the%20Opportunistic%20Providencia%20stuartii%20Unveils%20the%20Novel%20Genetic%20Interactions%20with%20the%20Virulence%20Gene%20of%20Diarrheal%20Pathogens"
-  tags:
-  - "genomics"
-  - "amr"
-  - "preprint"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Graphene as a lubricant additive for reducing friction and wear in its liquid-based form"
-  authors:
-  - "Ab Rahman Marlinda"
-  - "Gregory Soon How Thien"
-  - "Mehmood Shahid"
-  - "Ting Yang Ling"
-  - "Abu Hashem"
-  - "Kah-Yoong Chan"
-  - "Mohd Rafie Johan"
-  publisher: "Lubricants, 11(1), 29"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=Graphene%20as%20a%20lubricant%20additive%20for%20reducing%20friction%20and%20wear%20in%20its%20liquid-based%20form"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Graphene%20as%20a%20lubricant%20additive%20for%20reducing%20friction%20and%20wear%20in%20its%20liquid-based%20form"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Nanocellulose-based carbon nanocomposite for the electrochemical sensing application for pharmaceuticals: A review"
-  authors:
-  - "Md Shalauddin"
-  - "Wan Jeffrey Basirun"
-  - "Akhter Shamima"
-  - "Abu Hashem"
-  - "Marlinda Ab Rahman"
-  publisher: "Malaysian NANO-An International Journal (MNIJ), 3(1), 1–16"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=Nanocellulose-based%20carbon%20nanocomposite%20for%20the%20electrochemical%20sensing%20application%20for%20pharmaceuticals%3A%20A%20review"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Nanocellulose-based%20carbon%20nanocomposite%20for%20the%20electrochemical%20sensing%20application%20for%20pharmaceuticals%3A%20A%20review"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Prevalence of Multidrug-Resistant Salmonella in Raw Salad Vegetables in Dhaka Metropolitan Area"
-  authors:
-  - "Palash Kumar Sarker"
-  - "Hafizur Rahman"
-  - "Kulsum Ara"
-  - "Md Shahidul Kabir"
-  - "Shishir Kanti Pramanik"
-  - "Maruf Hasan"
-  publisher: "MIST International Journal of Science and Technology, 51–57"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=Prevalence%20of%20Multidrug-Resistant%20Salmonella%20in%20Raw%20Salad%20Vegetables%20in%20Dhaka%20Metropolitan%20Area"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Prevalence%20of%20Multidrug-Resistant%20Salmonella%20in%20Raw%20Salad%20Vegetables%20in%20Dhaka%20Metropolitan%20Area"
-  tags:
-  - "amr"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- id: "doi:10.1007/978-981-99-3901-5_17"
-  title: "The impact of textile dyes on the environment"
-  authors:
-  - "Tanzina Akter"
-  - "Anica Tasnim Protity"
-  - "Modhusudon Shaha"
-  - "Mohammad Al Mamun"
-  - "Abu Hashem"
-  publisher: "Nanohybrid materials for treatment of textiles dyes, 401–431"
-  date: "2023-01-01"
-  link: "https://doi.org/10.1007/978-981-99-3901-5_17"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-up-right-from-square"
-    text: "DOI"
-    link: "https://doi.org/10.1007/978-981-99-3901-5_17"
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=The%20impact%20of%20textile%20dyes%20on%20the%20environment"
-  tags:
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Unraveling Coinfection Dynamics into 100 Whole Genome of Diarrheal Pathogens: A Genome-to-Systems Biology Approach with Plesiomonas shigelloides"
-  authors:
-  - "Mohammad Uzzal Hossain"
-  - "ABZ Naimur Rahman"
-  - "Md Shahadat Hossain"
-  - "Shajib Dey"
-  - "Zeshan Mahmud Chowdhury"
-  - "Arittra Bhattacharjee"
-  - "Ishtiaque Ahammad"
-  - "Md Imran Ahmed"
-  - "Khandokar Fahmida Sultana"
-  - "Abu Hashem"
-  - "et al."
-  publisher: "bioRxiv, 2023–11"
-  date: "2023-01-01"
-  link: "https://scholar.google.com/scholar?q=Unraveling%20Coinfection%20Dynamics%20into%20100%20Whole%20Genome%20of%20Diarrheal%20Pathogens%3A%20A%20Genome-to-Systems%20Biology%20Approach%20with%20Plesiomonas%20shigelloides"
-  type: "preprint"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Unraveling%20Coinfection%20Dynamics%20into%20100%20Whole%20Genome%20of%20Diarrheal%20Pathogens%3A%20A%20Genome-to-Systems%20Biology%20Approach%20with%20Plesiomonas%20shigelloides"
-  tags:
-  - "genomics"
-  - "amr"
-  - "preprint"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Advancements in detection approaches of severe acute respiratory syndrome coronavirus 2"
-  authors:
-  - "MA Motalib Hossain"
-  - "Syed Muhammad Kamal Uddin"
-  - "Abu Hashem"
-  - "Mohammad Al Mamun"
-  - "Suresh Sagadevan"
-  - "Mohd Rafie Johan"
-  publisher: "The Malaysian Journal of Medical Sciences: MJMS, 29(6), 15"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Advancements%20in%20detection%20approaches%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Advancements%20in%20detection%20approaches%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Agroforestry potential of a wild mango species (Mangifera sylvatica Roxb.)"
-  authors:
-  - "Sayma Akhter"
-  - "Morag McDonald"
-  - "Mohammed Jashimuddin"
-  - "Md Bashirul-Al-Mamun"
-  - "Palash Sarker"
-  publisher: "Trees, Forests and People, 7, 100194"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Agroforestry%20potential%20of%20a%20wild%20mango%20species%20(Mangifera%20sylvatica%20Roxb.)"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Agroforestry%20potential%20of%20a%20wild%20mango%20species%20(Mangifera%20sylvatica%20Roxb.)"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Application of microbial fuel cells as biosensors"
-  authors:
-  - "Abu Hashem"
-  - "Khanom Simarani"
-  - "Ab Rahman Marlinda"
-  - "MA Motalib Hossain"
-  - "Mohammad Al Mamun"
-  - "Mohd Rafie Johan"
-  publisher: "Microbial Fuel Cells for Environmental Remediation, 349–387"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Application%20of%20microbial%20fuel%20cells%20as%20biosensors"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Application%20of%20microbial%20fuel%20cells%20as%20biosensors"
-  tags:
-  - "biosensors"
-  - "microbial-fuel-cells"
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Applications of nanocellulose as biosensing platforms for the detection of functional biomacromolecules: A Review"
-  authors:
-  - "Abu Hashem"
-  - "Ibrahim Khalil"
-  - "Mohammad Al Mamun"
-  - "Md Shalauddin"
-  - "MA Motalib Hossain"
-  - "Marlinda Ab Rahman"
-  - "Khanom Simarani"
-  - "Mohd Rafie Johan"
-  publisher: "Malaysian NANO-An International Journal (MNIJ), 2(1), 15–45"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Applications%20of%20nanocellulose%20as%20biosensing%20platforms%20for%20the%20detection%20of%20functional%20biomacromolecules%3A%20A%20Review"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Applications%20of%20nanocellulose%20as%20biosensing%20platforms%20for%20the%20detection%20of%20functional%20biomacromolecules%3A%20A%20Review"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Corrigendum: Chapter 7. The role of the proton exchange membrane (PEM) in microbial fuel cell performance"
-  authors:
-  - "Tanzina Akter"
-  - "Modhusudon Shaha"
-  - "Mohammad Al Mamun"
-  - "Md Abu Sayem Khan"
-  - "Abu Hashem"
-  publisher: "Microbial Fuel Cells: Emerging trends in electrochemical applications, 21–1"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Corrigendum%3A%20Chapter%207.%20The%20role%20of%20the%20proton%20exchange%20membrane%20(PEM)%20in%20microbial%20fuel%20cell%20performance"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Corrigendum%3A%20Chapter%207.%20The%20role%20of%20the%20proton%20exchange%20membrane%20(PEM)%20in%20microbial%20fuel%20cell%20performance"
-  tags:
-  - "biosensors"
-  - "microbial-fuel-cells"
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Electrochemistry of Green Ag Nanoparticles Modified Electrode Surface"
-  authors:
-  - "Mohammad Al Mamun"
-  - "Yasmin Abdul Wahab"
-  - "MA Motalib Hossain"
-  - "Abu Hashem"
-  - "Kamrul Alam Khan"
-  - "Mohd Rafie Johan"
-  - "Hanim Hussin"
-  - "Nurul Ezaila Alias"
-  publisher: "2022 IEEE International Conference on Semiconductor Electronics (ICSE), 37–40"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Electrochemistry%20of%20Green%20Ag%20Nanoparticles%20Modified%20Electrode%20Surface"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Electrochemistry%20of%20Green%20Ag%20Nanoparticles%20Modified%20Electrode%20Surface"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Identification of a novel variant of hepatitis B virus isolated from patient co-infected with hepatitis C virus"
-  authors:
-  - "Modhusudon Shaha"
-  - "Sumen Majumder"
-  - "Md Saddam Hossain"
-  - "Munira Jahan"
-  - "Raad Rahmat"
-  - "Ridwana Asma"
-  - "Mohammad Ariful Islam"
-  - "Md Hadisur Rahman"
-  - "Keshob Chandra Das"
-  - "Palash Kumar Sarker"
-  - "et al."
-  publisher: "Virus research, 319, 198859"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Identification%20of%20a%20novel%20variant%20of%20hepatitis%20B%20virus%20isolated%20from%20patient%20co-infected%20with%20hepatitis%20C%20virus"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Identification%20of%20a%20novel%20variant%20of%20hepatitis%20B%20virus%20isolated%20from%20patient%20co-infected%20with%20hepatitis%20C%20virus"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Intra-genotypic Recombination and Polymorphisms of Hepatitis B Virus Genome Circulating in Bangladesh"
-  authors:
-  - "M Shaha"
-  - "M Salimullah"
-  publisher: "International Journal of Infectious Diseases, 116, S20"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Intra-genotypic%20Recombination%20and%20Polymorphisms%20of%20Hepatitis%20B%20Virus%20Genome%20Circulating%20in%20Bangladesh"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Intra-genotypic%20Recombination%20and%20Polymorphisms%20of%20Hepatitis%20B%20Virus%20Genome%20Circulating%20in%20Bangladesh"
-  tags:
-  - "genomics"
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Nucleic acid-based electrochemical biosensors for rapid clinical diagnosis: Advances, challenges, and opportunities"
-  authors:
-  - "Abu Hashem"
-  - "MA Motalib Hossain"
-  - "Ab Rahman Marlinda"
-  - "Mohammad Al Mamun"
-  - "Suresh Sagadevan"
-  - "Zohreh Shahnavaz"
-  - "Khanom Simarani"
-  - "Mohd Rafie Johan"
-  publisher: "Critical reviews in clinical laboratory sciences, 59(3), 156–177"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Nucleic%20acid-based%20electrochemical%20biosensors%20for%20rapid%20clinical%20diagnosis%3A%20Advances%2C%20challenges%2C%20and%20opportunities"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Nucleic%20acid-based%20electrochemical%20biosensors%20for%20rapid%20clinical%20diagnosis%3A%20Advances%2C%20challenges%2C%20and%20opportunities"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Rapid and sensitive detection of box turtles using an electrochemical DNA biosensor based on a gold/graphene nanocomposite"
-  authors:
-  - "Abu Hashem"
-  - "MA Motalib Hossain"
-  - "Mohammad Al Mamun"
-  - "Khanom Simarani"
-  - "Mohd Rafie Johan"
-  - "et al."
-  publisher: "Beilstein Journal of Nanotechnology, 13(1), 1458–1472"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Rapid%20and%20sensitive%20detection%20of%20box%20turtles%20using%20an%20electrochemical%20DNA%20biosensor%20based%20on%20a%20gold%2Fgraphene%20nanocomposite"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Rapid%20and%20sensitive%20detection%20of%20box%20turtles%20using%20an%20electrochemical%20DNA%20biosensor%20based%20on%20a%20gold%2Fgraphene%20nanocomposite"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Scrap Gold Recovery: Recycling, Fabrication and Electrochemical Characterization of Low-Cost Gold Electrode"
-  authors:
-  - "Mohammad Al Mamun"
-  - "Yasmin Abdul Wahab"
-  - "MA Motalib Hossain"
-  - "Abu Hashem"
-  - "Mohd Rafie Johan"
-  publisher: "Malaysian Catalysis-An International Journal, 2(1), 1–20"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=Scrap%20Gold%20Recovery%3A%20Recycling%2C%20Fabrication%20and%20Electrochemical%20Characterization%20of%20Low-Cost%20Gold%20Electrode"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Scrap%20Gold%20Recovery%3A%20Recycling%2C%20Fabrication%20and%20Electrochemical%20Characterization%20of%20Low-Cost%20Gold%20Electrode"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "The role of the proton exchange membrane (PEM) in microbial fuel cell performance"
-  authors:
-  - "Tanzina Akter"
-  - "Modhusudon Shaha"
-  - "Mohammad Al Mamun"
-  - "Md Abu Sayem Khan"
-  - "Abu Hashem"
-  publisher: "Microbial Fuel Cells: Emerging trends in electrochemical applications, 7–1"
-  date: "2022-01-01"
-  link: "https://scholar.google.com/scholar?q=The%20role%20of%20the%20proton%20exchange%20membrane%20(PEM)%20in%20microbial%20fuel%20cell%20performance"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=The%20role%20of%20the%20proton%20exchange%20membrane%20(PEM)%20in%20microbial%20fuel%20cell%20performance"
-  tags:
-  - "biosensors"
-  - "microbial-fuel-cells"
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Clinical manifestations of hospitalized COVID-19 patients in Bangladesh: a 14-day observational study"
-  authors:
-  - "Modhusudon Shaha"
-  - "Md A Islam"
-  - "Faizul Huq"
-  - "Bithi Roy"
-  - "Md A Kabir"
-  - "Md Salimullah"
-  - "Mamun Al Mahtab"
-  - "Sheikh MF Akbar"
-  publisher: "Euroasian journal of hepato-gastroenterology, 11(1), 14"
-  date: "2021-01-01"
-  link: "https://scholar.google.com/scholar?q=Clinical%20manifestations%20of%20hospitalized%20COVID-19%20patients%20in%20Bangladesh%3A%20a%2014-day%20observational%20study"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Clinical%20manifestations%20of%20hospitalized%20COVID-19%20patients%20in%20Bangladesh%3A%20a%2014-day%20observational%20study"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Detection of herpes simplex virus 2: A SYBR-Green-based real-time PCR assay"
-  authors:
-  - "Modhusudon Shaha"
-  - "Bithi Roy"
-  - "Mohammad Ariful Islam"
-  publisher: "F1000Research, 10, 655"
-  date: "2021-01-01"
-  link: "https://scholar.google.com/scholar?q=Detection%20of%20herpes%20simplex%20virus%202%3A%20A%20SYBR-Green-based%20real-time%20PCR%20assay"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Detection%20of%20herpes%20simplex%20virus%202%3A%20A%20SYBR-Green-based%20real-time%20PCR%20assay"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "DNA-based methods for species identification in food forensic science"
-  authors:
-  - "MA Motalib Hossain"
-  - "Syed Muhammad Kamal Uddin"
-  - "Sharmin Sultana"
-  - "Abu Hashem"
-  - "Myrto Rizou"
-  - "Turki MS Aldawoud"
-  - "Charis M Galanakis"
-  - "Mohd Rafie Johan"
-  publisher: "Food toxicology and forensics, 181–211"
-  date: "2021-01-01"
-  link: "https://scholar.google.com/scholar?q=DNA-based%20methods%20for%20species%20identification%20in%20food%20forensic%20science"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=DNA-based%20methods%20for%20species%20identification%20in%20food%20forensic%20science"
-  tags:
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "DNA/Nano based advanced genetic detection tools for authentication of species: Strategies, prospects and limitations"
-  authors:
-  - "Ibrahim Khalil"
-  - "Abu Hashem"
-  - "Amit R Nath"
-  - "Nurhidayatullaili Muhd Julkapli"
-  - "Wageeh A Yehye"
-  - "Wan Jeffrey Basirun"
-  publisher: "Molecular and cellular probes, 59, 101758"
-  date: "2021-01-01"
-  link: "https://scholar.google.com/scholar?q=DNA%2FNano%20based%20advanced%20genetic%20detection%20tools%20for%20authentication%20of%20species%3A%20Strategies%2C%20prospects%20and%20limitations"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=DNA%2FNano%20based%20advanced%20genetic%20detection%20tools%20for%20authentication%20of%20species%3A%20Strategies%2C%20prospects%20and%20limitations"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Electrochemical biosensors with Aptamer recognition layer for the diagnosis of pathogenic bacteria: Barriers to commercialization and remediation"
-  authors:
-  - "Mohammad Al Mamun"
-  - "Yasmin Abdul Wahab"
-  - "MA Motalib Hossain"
-  - "Abu Hashem"
-  - "Mohd Rafie Johan"
-  publisher: "TrAC Trends in Analytical Chemistry, 145, 116458"
-  date: "2021-01-01"
-  link: "https://scholar.google.com/scholar?q=Electrochemical%20biosensors%20with%20Aptamer%20recognition%20layer%20for%20the%20diagnosis%20of%20pathogenic%20bacteria%3A%20Barriers%20to%20commercialization%20and%20remediation"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Electrochemical%20biosensors%20with%20Aptamer%20recognition%20layer%20for%20the%20diagnosis%20of%20pathogenic%20bacteria%3A%20Barriers%20to%20commercialization%20and%20remediation"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Keratinolytic protease from Pseudomonas aeruginosa for leather skin processing"
-  authors:
-  - "Yeasmin Akter Moonnee"
-  - "Md Javed Foysal"
-  - "Abu Hashem"
-  - "Md Faruque Miah"
-  publisher: "Journal of Genetic Engineering and Biotechnology, 19(1), 53"
-  date: "2021-01-01"
-  link: "https://scholar.google.com/scholar?q=Keratinolytic%20protease%20from%20Pseudomonas%20aeruginosa%20for%20leather%20skin%20processing"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Keratinolytic%20protease%20from%20Pseudomonas%20aeruginosa%20for%20leather%20skin%20processing"
-  tags:
-  - "microbial-enzymes"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Nanomaterials based electrochemical nucleic acid biosensors for environmental monitoring: A review"
-  authors:
-  - "Abu Hashem"
-  - "MA Motalib Hossain"
-  - "Mohammad Al Mamun"
-  - "Khanom Simarani"
-  - "Mohd Rafie Johan"
-  - "et al."
-  publisher: "Applied Surface Science Advances, 4, 100064"
-  date: "2021-01-01"
-  link: "https://scholar.google.com/scholar?q=Nanomaterials%20based%20electrochemical%20nucleic%20acid%20biosensors%20for%20environmental%20monitoring%3A%20A%20review"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Nanomaterials%20based%20electrochemical%20nucleic%20acid%20biosensors%20for%20environmental%20monitoring%3A%20A%20review"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Sonofragmentation Synthesis of Composition-Controlled Iron-Cobalt Nanoparticles with Enhanced Magnetic Properties"
-  authors:
-  - "Brajalal Sinha"
-  - "Rubayet Tanveer"
-  - "Palash Kumar Sarker"
-  - "Md Nazrul Islam"
-  publisher: "Materials Performance and Characterization, 10(1), 718–726"
-  date: "2021-01-01"
-  link: "https://scholar.google.com/scholar?q=Sonofragmentation%20Synthesis%20of%20Composition-Controlled%20Iron-Cobalt%20Nanoparticles%20with%20Enhanced%20Magnetic%20Properties"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Sonofragmentation%20Synthesis%20of%20Composition-Controlled%20Iron-Cobalt%20Nanoparticles%20with%20Enhanced%20Magnetic%20Properties"
-  tags:
-  - "biosensors"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Anticancer potential of Chenopodium album leaf extract against Ehrlich ascites carcinoma cells in Swiss albino mice"
-  authors:
-  - "Sohel Rana"
-  - "Shakila Rahman"
-  - "Samiron Sana"
-  - "Tonmoy Kumar Biswas"
-  - "Abu Kayes Md Hashem"
-  - "Shahnaz Parvin"
-  - "Kishor Mazumder"
-  publisher: "Future Journal of Pharmaceutical Sciences, 6(1), 65"
-  date: "2020-01-01"
-  link: "https://scholar.google.com/scholar?q=Anticancer%20potential%20of%20Chenopodium%20album%20leaf%20extract%20against%20Ehrlich%20ascites%20carcinoma%20cells%20in%20Swiss%20albino%20mice"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Anticancer%20potential%20of%20Chenopodium%20album%20leaf%20extract%20against%20Ehrlich%20ascites%20carcinoma%20cells%20in%20Swiss%20albino%20mice"
-  tags:
-  - "drug-discovery"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Assessment of hexavalent chromium pollution in Buriganga and Dhaleshwari river waterbodies adjacent to tannery estates in Bangladesh"
-  authors:
-  - "Hafizur Rahman"
-  - "Nabila Hoque"
-  - "Palash Kumar Sarker"
-  - "Ashrafus Safa"
-  publisher: "MIST International Journal of Science and Technology, 8, 11–15"
-  date: "2020-01-01"
-  link: "https://scholar.google.com/scholar?q=Assessment%20of%20hexavalent%20chromium%20pollution%20in%20Buriganga%20and%20Dhaleshwari%20river%20waterbodies%20adjacent%20to%20tannery%20estates%20in%20Bangladesh"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Assessment%20of%20hexavalent%20chromium%20pollution%20in%20Buriganga%20and%20Dhaleshwari%20river%20waterbodies%20adjacent%20to%20tannery%20estates%20in%20Bangladesh"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Association of polymorphism in heat shock protein 70 genes with type 2 diabetes in Bangladeshi population"
-  authors:
-  - "Md Moniruzzaman"
-  - "Irfan Ahmed"
-  - "Saaimatul Huq"
-  - "Md Shakur All Mahmud"
-  - "Sonya Begum"
-  - "US Mahzabin Amin"
-  - "Md Hadisur Rahman"
-  - "Palash Kumar Sarker"
-  - "Mohammad Uzzal Hossain"
-  - "Keshob Chandra Das"
-  - "et al."
-  publisher: "Molecular Genetics & Genomic Medicine, 8(2), e1073"
-  date: "2020-01-01"
-  link: "https://scholar.google.com/scholar?q=Association%20of%20polymorphism%20in%20heat%20shock%20protein%2070%20genes%20with%20type%202%20diabetes%20in%20Bangladeshi%20population"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Association%20of%20polymorphism%20in%20heat%20shock%20protein%2070%20genes%20with%20type%202%20diabetes%20in%20Bangladeshi%20population"
-  tags:
-  - "genomics"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Comparative evaluation of sensitivity and specificity of immunochromatography kit for the rapid detection of norovirus and rotavirus in Bangladesh"
-  authors:
-  - "Modhusudon Shaha"
-  - "Sadia Farzana Sifat"
-  - "Md Al Mamun"
-  - "Md Baki Billah"
-  - "Nadim Sharif"
-  - "Nasir Uddin Nobel"
-  - "Anowar Khasru Parvez"
-  - "Ali Azam Talukder"
-  - "Akiko Nomura"
-  - "Hiroshi Ushijima"
-  - "et al."
-  publisher: "F1000Research, 8(173), 173"
-  date: "2020-01-01"
-  link: "https://scholar.google.com/scholar?q=Comparative%20evaluation%20of%20sensitivity%20and%20specificity%20of%20immunochromatography%20kit%20for%20the%20rapid%20detection%20of%20norovirus%20and%20rotavirus%20in%20Bangladesh"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Comparative%20evaluation%20of%20sensitivity%20and%20specificity%20of%20immunochromatography%20kit%20for%20the%20rapid%20detection%20of%20norovirus%20and%20rotavirus%20in%20Bangladesh"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Isolation and characterization of electrogenic bacteria from tannery wastewater"
-  authors:
-  - "Ekramul Islam"
-  - "Md Saddam Hossain"
-  - "Palash Kumar Sarker"
-  - "Syeda Tasneem Towhid"
-  - "Md Salimullah"
-  - "Abu Hashem"
-  publisher: "Bangladesh J Microbiol, 37(1), 23–27"
-  date: "2020-01-01"
-  link: "https://scholar.google.com/scholar?q=Isolation%20and%20characterization%20of%20electrogenic%20bacteria%20from%20tannery%20wastewater"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Isolation%20and%20characterization%20of%20electrogenic%20bacteria%20from%20tannery%20wastewater"
-  tags:
-  - "microbial-fuel-cells"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Microplastics pollution in Bangladesh: current scenario and future research perspective"
-  authors:
-  - "Md Ekramul Karim"
-  - "Sohana Al Sanjee"
-  - "Shohel Mahmud"
-  - "Modhusudon Shaha"
-  - "Md Moniruzzaman"
-  - "Keshob Chandra Das"
-  publisher: "Chemistry and Ecology, 36(1), 83–99"
-  date: "2020-01-01"
-  link: "https://scholar.google.com/scholar?q=Microplastics%20pollution%20in%20Bangladesh%3A%20current%20scenario%20and%20future%20research%20perspective"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Microplastics%20pollution%20in%20Bangladesh%3A%20current%20scenario%20and%20future%20research%20perspective"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Determination of prevalence and antimicrobial sensitivity patterns of Klebsiella pneumoniae from sputum sample of a tertiary care hospital"
-  authors:
-  - "Tanzina Akter"
-  - "S Khan"
-  - "Shamsun Nahar"
-  - "Kaniz Fatema"
-  - "Modhusudon Shaha"
-  - "MJ Hossain"
-  - "et al."
-  publisher: "Int Med J, 24(3), 29–35"
-  date: "2019-01-01"
-  link: "https://scholar.google.com/scholar?q=Determination%20of%20prevalence%20and%20antimicrobial%20sensitivity%20patterns%20of%20Klebsiella%20pneumoniae%20from%20sputum%20sample%20of%20a%20tertiary%20care%20hospital"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Determination%20of%20prevalence%20and%20antimicrobial%20sensitivity%20patterns%20of%20Klebsiella%20pneumoniae%20from%20sputum%20sample%20of%20a%20tertiary%20care%20hospital"
-  tags:
-  - "amr"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Innovation in agriculture and industrial sectors of Bangladesh through application of biotechnology to achieve SDGs: Opportunities and challenges"
-  authors:
-  - "Abu Hashem"
-  - "MM Hossain"
-  - "Khanom Binti Simarani"
-  - "Mohd Rafie Bin Johan"
-  publisher: "1st International Conference on Planning and Development, NAPD, Dhaka, 35–54"
-  date: "2019-01-01"
-  link: "https://scholar.google.com/scholar?q=Innovation%20in%20agriculture%20and%20industrial%20sectors%20of%20Bangladesh%20through%20application%20of%20biotechnology%20to%20achieve%20SDGs%3A%20Opportunities%20and%20challenges"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Innovation%20in%20agriculture%20and%20industrial%20sectors%20of%20Bangladesh%20through%20application%20of%20biotechnology%20to%20achieve%20SDGs%3A%20Opportunities%20and%20challenges"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Microbial Fuel Cell (MFC) application for generation of electricity from dumping rubbish and identification of potential electrogenic bacteria"
-  authors:
-  - "Titon Chandra Saha"
-  - "Anica Tasnim Protity"
-  - "Fatema Tuj Zohora"
-  - "Modhusudon Shaha"
-  - "Irfan Ahmed"
-  - "Eti Barua"
-  - "P Sarker"
-  - "SK Mukherjee"
-  - "Abanti Barua"
-  - "M Salimullah"
-  - "et al."
-  publisher: "Adv Ind Biotechnol, 2(010)"
-  date: "2019-01-01"
-  link: "https://scholar.google.com/scholar?q=Microbial%20Fuel%20Cell%20(MFC)%20application%20for%20generation%20of%20electricity%20from%20dumping%20rubbish%20and%20identification%20of%20potential%20electrogenic%20bacteria"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Microbial%20Fuel%20Cell%20(MFC)%20application%20for%20generation%20of%20electricity%20from%20dumping%20rubbish%20and%20identification%20of%20potential%20electrogenic%20bacteria"
-  tags:
-  - "microbial-fuel-cells"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Optimization of production and partial characterization of cellulase and protease enzymes from Aeromonas hydrophila ASMS32"
-  authors:
-  - "Sourav Chakraborty"
-  - "Ziaul Faruque Joy"
-  - "Ashequl Haque"
-  - "Asif Iqbal"
-  - "Salma Akhter"
-  - "Palash Kumar Sarker"
-  - "SM Abu Sayem"
-  publisher: "Journal of Advanced Biotechnology and Experimental Therapeutics, 2(3), 103"
-  date: "2019-01-01"
-  link: "https://scholar.google.com/scholar?q=Optimization%20of%20production%20and%20partial%20characterization%20of%20cellulase%20and%20protease%20enzymes%20from%20Aeromonas%20hydrophila%20ASMS32"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Optimization%20of%20production%20and%20partial%20characterization%20of%20cellulase%20and%20protease%20enzymes%20from%20Aeromonas%20hydrophila%20ASMS32"
-  tags:
-  - "microbial-enzymes"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "The effect of different shapes of shear keys at the interface of old and new concretes of jacketed RC column"
-  authors:
-  - "MR Alam"
-  - "PK Sarker"
-  - "M Rahman"
-  - "SH Himel"
-  publisher: "Mechanics of Structures and Materials XXIV: Proceedings of the 24th Australian Conference on the Mechanics of Structures and Materials (ACMSM24, Perth, Australia, 6-9 December 2016), 109"
-  date: "2019-01-01"
-  link: "https://scholar.google.com/scholar?q=The%20effect%20of%20different%20shapes%20of%20shear%20keys%20at%20the%20interface%20of%20old%20and%20new%20concretes%20of%20jacketed%20RC%20column"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=The%20effect%20of%20different%20shapes%20of%20shear%20keys%20at%20the%20interface%20of%20old%20and%20new%20concretes%20of%20jacketed%20RC%20column"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "An immunopharmacoinformatics approach in development of vaccine and drug candidates for West Nile virus"
-  authors:
-  - "Mohammad Uzzal Hossain"
-  - "Chaman Ara Keya"
-  - "Keshob Chandra Das"
-  - "Abu Hashem"
-  - "Taimur Md Omar"
-  - "Md Arif Khan"
-  - "SM Rakib-Uz-Zaman"
-  - "Md Salimullah"
-  publisher: "Frontiers in Chemistry, 6, 246"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=An%20immunopharmacoinformatics%20approach%20in%20development%20of%20vaccine%20and%20drug%20candidates%20for%20West%20Nile%20virus"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=An%20immunopharmacoinformatics%20approach%20in%20development%20of%20vaccine%20and%20drug%20candidates%20for%20West%20Nile%20virus"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Analysis of the complete genome of hepatitis B virus subgenotype C2 isolate NHB17965 from a HBV infected patient"
-  authors:
-  - "Modhusudon Shaha"
-  - "Palash Kumar Sarker"
-  - "Md Saddam Hossain"
-  - "Keshob Chandra Das"
-  - "Munira Jahan"
-  - "Shuvra Kanti Dey"
-  - "Shahina Tabassum"
-  - "Abu Hashem"
-  - "Md Salimullah"
-  publisher: "F1000Research, 7, 1023"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=Analysis%20of%20the%20complete%20genome%20of%20hepatitis%20B%20virus%20subgenotype%20C2%20isolate%20NHB17965%20from%20a%20HBV%20infected%20patient"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Analysis%20of%20the%20complete%20genome%20of%20hepatitis%20B%20virus%20subgenotype%20C2%20isolate%20NHB17965%20from%20a%20HBV%20infected%20patient"
-  tags:
-  - "genomics"
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Antibiofilm activity of crude cell free extract from Bacillus subtilis S01 against E. coli"
-  authors:
-  - "SMA Sayem"
-  - "AJMT Chowdhury"
-  - "MZ Alam"
-  - "PK Sarker"
-  publisher: "Journal of Scientific Research, 10(2), 211–221"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=Antibiofilm%20activity%20of%20crude%20cell%20free%20extract%20from%20Bacillus%20subtilis%20S01%20against%20E.%20coli"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Antibiofilm%20activity%20of%20crude%20cell%20free%20extract%20from%20Bacillus%20subtilis%20S01%20against%20E.%20coli"
-  tags:
-  - "drug-discovery"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Complete genome sequence of a circulating hepatitis B virus genotype C strain isolated from a chronically infected patient identified at an outdoor hospital in Bangladesh"
-  authors:
-  - "Modhusudon Shaha"
-  - "Keshob Chandra Das"
-  - "M Saddam Hossain"
-  - "Munira Jahan"
-  - "Abu Hashem"
-  - "Sabita Rezwana Rahman"
-  - "M Salimullah"
-  publisher: "Genome Announcements, 6(9), e01601–17"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=Complete%20genome%20sequence%20of%20a%20circulating%20hepatitis%20B%20virus%20genotype%20C%20strain%20isolated%20from%20a%20chronically%20infected%20patient%20identified%20at%20an%20outdoor%20hospital%20in%20Bangladesh"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Complete%20genome%20sequence%20of%20a%20circulating%20hepatitis%20B%20virus%20genotype%20C%20strain%20isolated%20from%20a%20chronically%20infected%20patient%20identified%20at%20an%20outdoor%20hospital%20in%20Bangladesh"
-  tags:
-  - "genomics"
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Decline in timber and fuel wood species diversity driven by anthropogenic disturbance: a multivariate approach in Sarban Hills (Abbottabad), Pakistan"
-  authors:
-  - "F Ijaz"
-  - "Z Iqbal"
-  - "J Alam"
-  - "R Kausar"
-  - "I Ur Rahman"
-  - "A Afzal"
-  - "N Ali"
-  - "M Shah"
-  - "I Ahmed"
-  - "ES Calixto"
-  publisher: "Ukrainian Journal of Ecology, 8(4), 11–16"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=Decline%20in%20timber%20and%20fuel%20wood%20species%20diversity%20driven%20by%20anthropogenic%20disturbance%3A%20a%20multivariate%20approach%20in%20Sarban%20Hills%20(Abbottabad)%2C%20Pakistan"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Decline%20in%20timber%20and%20fuel%20wood%20species%20diversity%20driven%20by%20anthropogenic%20disturbance%3A%20a%20multivariate%20approach%20in%20Sarban%20Hills%20(Abbottabad)%2C%20Pakistan"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Generation of electricity using microbial fuel cell (MFC) from sludge"
-  authors:
-  - "Eti Barua"
-  - "Md Saddam Hossain"
-  - "Modhusudon Shaha"
-  - "Ekramul Islam"
-  - "Fatema Tuj Zohora"
-  - "Anica Tasnim Protity"
-  - "Sanjoy Kumar Mukharjee"
-  - "Palash Kumar Sarker"
-  - "Md Salimullah"
-  - "Abu Hashem"
-  publisher: "Bangladesh J. Microbiol, 35(1), 23–26"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=Generation%20of%20electricity%20using%20microbial%20fuel%20cell%20(MFC)%20from%20sludge"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Generation%20of%20electricity%20using%20microbial%20fuel%20cell%20(MFC)%20from%20sludge"
-  tags:
-  - "microbial-fuel-cells"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Host immune responses to the infections caused by the infectious viruses"
-  authors:
-  - "Modhusudon Shaha"
-  - "B Roy"
-  - "T Akter"
-  - "E Karim"
-  - "M Rahaman"
-  publisher: "Acta Sci Microbiol, 1(6), 13–6"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=Host%20immune%20responses%20to%20the%20infections%20caused%20by%20the%20infectious%20viruses"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Host%20immune%20responses%20to%20the%20infections%20caused%20by%20the%20infectious%20viruses"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Identification of a novel tri-genotypic recombinant Hepatitis B virus in Bangladesh"
-  authors:
-  - "Modhusudon Shaha"
-  - "Md Hadisur Rahman"
-  - "Munira Jahan"
-  - "Shuvra Kanti Dey"
-  - "Keshob Chandra Das"
-  - "Abu Hashem"
-  - "Md Salimullah"
-  publisher: "Virus research, 255, 154–156"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=Identification%20of%20a%20novel%20tri-genotypic%20recombinant%20Hepatitis%20B%20virus%20in%20Bangladesh"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Identification%20of%20a%20novel%20tri-genotypic%20recombinant%20Hepatitis%20B%20virus%20in%20Bangladesh"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Intragenogroup recombination in the complete genome sequence of human sapovirus circulating in Bangladesh"
-  authors:
-  - "Shuvra Kanti Dey"
-  - "Mariya Kibtiya Sumiya"
-  - "Modhusudon Shaha"
-  - "Razoanul Haque"
-  - "Shoko Okitsu"
-  - "Hiroshi Ushijima"
-  publisher: "Genome announcements, 6(18), e00388–18"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=Intragenogroup%20recombination%20in%20the%20complete%20genome%20sequence%20of%20human%20sapovirus%20circulating%20in%20Bangladesh"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Intragenogroup%20recombination%20in%20the%20complete%20genome%20sequence%20of%20human%20sapovirus%20circulating%20in%20Bangladesh"
-  tags:
-  - "genomics"
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Molecular evolution and genomics of hepatitis B virus subgenotype C2 strain predominant in the chronic patients in Bangladesh: M. Shaha et al."
-  authors:
-  - "Modhusudon Shaha"
-  - "Sourav Chakraborty"
-  - "Md Saddam Hossain"
-  - "Abu Hashem"
-  - "Md Salimullah"
-  publisher: "Virusdisease, 29(4), 486–490"
-  date: "2018-01-01"
-  link: "https://scholar.google.com/scholar?q=Molecular%20evolution%20and%20genomics%20of%20hepatitis%20B%20virus%20subgenotype%20C2%20strain%20predominant%20in%20the%20chronic%20patients%20in%20Bangladesh%3A%20M.%20Shaha%20et%20al."
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Molecular%20evolution%20and%20genomics%20of%20hepatitis%20B%20virus%20subgenotype%20C2%20strain%20predominant%20in%20the%20chronic%20patients%20in%20Bangladesh%3A%20M.%20Shaha%20et%20al."
-  tags:
-  - "genomics"
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Production, partial optimization and characterization of keratinase enzyme by Arthrobacter sp. NFH5 isolated from soil samples"
-  authors:
-  - "Nirmal Chandra Barman"
-  - "Fatema Tuj Zohora"
-  - "Keshob Chandra Das"
-  - "Md Golam Mowla"
-  - "Nilufa Akhter Banu"
-  - "Md Salimullah"
-  - "Abu Hashem"
-  publisher: "Amb Express, 7(1), 181"
-  date: "2017-01-01"
-  link: "https://scholar.google.com/scholar?q=Production%2C%20partial%20optimization%20and%20characterization%20of%20keratinase%20enzyme%20by%20Arthrobacter%20sp.%20NFH5%20isolated%20from%20soil%20samples"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Production%2C%20partial%20optimization%20and%20characterization%20of%20keratinase%20enzyme%20by%20Arthrobacter%20sp.%20NFH5%20isolated%20from%20soil%20samples"
-  tags:
-  - "microbial-enzymes"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Supply Chain Analysis for the Development of Poultry Feed Industry in Bangladesh"
-  authors:
-  - "MA Haue"
-  - "M Akteruzzaman"
-  - "A Hashem"
-  publisher: "Journal of the political economy of Bangladesh"
-  date: "2017-01-01"
-  link: "https://scholar.google.com/scholar?q=Supply%20Chain%20Analysis%20for%20the%20Development%20of%20Poultry%20Feed%20Industry%20in%20Bangladesh"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Supply%20Chain%20Analysis%20for%20the%20Development%20of%20Poultry%20Feed%20Industry%20in%20Bangladesh"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "The importance of improved cooking stove for forest conservation, economic benefits and climate change mitigation—A Bangladesh case study"
-  authors:
-  - "Bishwajit Roy"
-  - "Md Habibur Rahman"
-  - "Palash Sarker"
-  publisher: "International Congress on Engineering and Sustainability in the XXI Century, 84–102"
-  date: "2017-01-01"
-  link: "https://scholar.google.com/scholar?q=The%20importance%20of%20improved%20cooking%20stove%20for%20forest%20conservation%2C%20economic%20benefits%20and%20climate%20change%20mitigation%E2%80%94A%20Bangladesh%20case%20study"
-  type: "book-chapter"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=The%20importance%20of%20improved%20cooking%20stove%20for%20forest%20conservation%2C%20economic%20benefits%20and%20climate%20change%20mitigation%E2%80%94A%20Bangladesh%20case%20study"
-  tags:
-  - "book-chapter"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Finding potential drug targets against Shigella flexneri through druggable proteome exploration."
-  authors:
-  - "Mohammad Uzzal Hossain"
-  - "Md Arif Khan"
-  - "Abu Hashem"
-  - "Md Monirul Islam"
-  - "Mohammad Neaz Morshed"
-  - "Chaman Ara Keya"
-  - "Md Salimullah"
-  publisher: "Frontiers in Microbiology, 7"
-  date: "2016-01-01"
-  link: "https://scholar.google.com/scholar?q=Finding%20potential%20drug%20targets%20against%20Shigella%20flexneri%20through%20druggable%20proteome%20exploration."
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Finding%20potential%20drug%20targets%20against%20Shigella%20flexneri%20through%20druggable%20proteome%20exploration."
-  tags:
-  - "amr"
-  - "drug-discovery"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Molecular epidemiology of hepatitis B virus isolated from Bangladesh"
-  authors:
-  - "Modhusudon Shaha"
-  - "Sheikh Ariful Hoque"
-  - "Sabita Rezwana Rahman"
-  publisher: "SpringerPlus, 5(1), 1513"
-  date: "2016-01-01"
-  link: "https://scholar.google.com/scholar?q=Molecular%20epidemiology%20of%20hepatitis%20B%20virus%20isolated%20from%20Bangladesh"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Molecular%20epidemiology%20of%20hepatitis%20B%20virus%20isolated%20from%20Bangladesh"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Prevalence, antibiotic susceptibility profiles and ESBL production in Klebsiella pneumoniae and Klebsiella oxytoca among hospitalized patients"
-  authors:
-  - "Sourav Chakraborty"
-  - "Kaniz Mohsina"
-  - "Palash Kumar Sarker"
-  - "Md Zahangir Alam"
-  - "M Ismail Abdul Karim"
-  - "SM Abu Sayem"
-  publisher: "Periodicum biologorum, 118(1)"
-  date: "2016-01-01"
-  link: "https://scholar.google.com/scholar?q=Prevalence%2C%20antibiotic%20susceptibility%20profiles%20and%20ESBL%20production%20in%20Klebsiella%20pneumoniae%20and%20Klebsiella%20oxytoca%20among%20hospitalized%20patients"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Prevalence%2C%20antibiotic%20susceptibility%20profiles%20and%20ESBL%20production%20in%20Klebsiella%20pneumoniae%20and%20Klebsiella%20oxytoca%20among%20hospitalized%20patients"
-  tags:
-  - "amr"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Quality Assessment of Industrial Effluent in chittagong Industrial Area, Bangladesh"
-  authors:
-  - "S Akter"
-  - "FT Jahara"
-  - "M Jibon"
-  - "A Halim"
-  - "A Hashem"
-  publisher: "Proc. of 3rd International Conference on Advances in Civil Engineering, CUET, Chittagong, Bangladesh, 21–23"
-  date: "2016-01-01"
-  link: "https://scholar.google.com/scholar?q=Quality%20Assessment%20of%20Industrial%20Effluent%20in%20chittagong%20Industrial%20Area%2C%20Bangladesh"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Quality%20Assessment%20of%20Industrial%20Effluent%20in%20chittagong%20Industrial%20Area%2C%20Bangladesh"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Therapeutics insight with inclusive immunopharmacology explication of human rotavirus a for the treatment of diarrhea"
-  authors:
-  - "Mohammad Uzzal Hossain"
-  - "Abu Hashem"
-  - "Chaman Ara Keya"
-  - "Md Salimullah"
-  publisher: "Frontiers in pharmacology, 7, 153"
-  date: "2016-01-01"
-  link: "https://scholar.google.com/scholar?q=Therapeutics%20insight%20with%20inclusive%20immunopharmacology%20explication%20of%20human%20rotavirus%20a%20for%20the%20treatment%20of%20diarrhea"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Therapeutics%20insight%20with%20inclusive%20immunopharmacology%20explication%20of%20human%20rotavirus%20a%20for%20the%20treatment%20of%20diarrhea"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Effects of risk factors on anti-HBs development in hepatitis B vaccinated and nonvaccinated populations"
-  authors:
-  - "Modhusudon Shaha"
-  - "Sheikh Ariful Hoque"
-  - "Mohammad Firoz Ahmed"
-  - "Sabita Rezwana Rahman"
-  publisher: "Viral immunology, 28(4), 217–221"
-  date: "2015-01-01"
-  link: "https://scholar.google.com/scholar?q=Effects%20of%20risk%20factors%20on%20anti-HBs%20development%20in%20hepatitis%20B%20vaccinated%20and%20nonvaccinated%20populations"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Effects%20of%20risk%20factors%20on%20anti-HBs%20development%20in%20hepatitis%20B%20vaccinated%20and%20nonvaccinated%20populations"
-  tags:
-  - "virology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "In vitro clonal propagation of BARI Ada-1 (Zingiber officinale Rosc.)"
-  authors:
-  - "S Yesmin"
-  - "A Hashem"
-  - "MM Khatun"
-  - "S Nasrin"
-  - "T Tanny"
-  - "MS Islam"
-  publisher: "Jahangirnagar University Journal of Biological Sciences, 4(2), 53–57"
-  date: "2015-01-01"
-  link: "https://scholar.google.com/scholar?q=In%20vitro%20clonal%20propagation%20of%20BARI%20Ada-1%20(Zingiber%20officinale%20Rosc.)"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=In%20vitro%20clonal%20propagation%20of%20BARI%20Ada-1%20(Zingiber%20officinale%20Rosc.)"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Isolation, purification and characterization of an extracellular protease from a locally isolated Bacillus sphaericus SI-1"
-  authors:
-  - "Abu Hashem"
-  - "Sabina Yesmin"
-  - "Md Kamruzzaman Pramanik"
-  - "Md Saidul Islam"
-  - "Khandaker Abdur Rahim"
-  - "Md Salimullah"
-  - "Mustafizur Rahman"
-  publisher: "Bioresearch Communications-(BRC), 1(2), 87–92"
-  date: "2015-01-01"
-  link: "https://scholar.google.com/scholar?q=Isolation%2C%20purification%20and%20characterization%20of%20an%20extracellular%20protease%20from%20a%20locally%20isolated%20Bacillus%20sphaericus%20SI-1"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Isolation%2C%20purification%20and%20characterization%20of%20an%20extracellular%20protease%20from%20a%20locally%20isolated%20Bacillus%20sphaericus%20SI-1"
-  tags:
-  - "microbial-enzymes"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Micropropagation of an important medicinal herb Eclipta alba (L.) Hassk."
-  authors:
-  - "S Yesmin"
-  - "A Hashem"
-  - "MS Islam"
-  publisher: "Jahangirnagar University Journal of Biological Sciences, 4(1), 61–69"
-  date: "2015-01-01"
-  link: "https://scholar.google.com/scholar?q=Micropropagation%20of%20an%20important%20medicinal%20herb%20Eclipta%20alba%20(L.)%20Hassk."
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Micropropagation%20of%20an%20important%20medicinal%20herb%20Eclipta%20alba%20(L.)%20Hassk."
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Minimum free energy based evaluation of mRNAs secondary structures constructed by 18 clinically significant exonic single nucleotide polymorphisms (SNPs) and haplotypes of 5 missense SNPs of RB1 gene"
-  authors:
-  - "Sarder Nasir Uddin"
-  - "Apurba Majumder"
-  - "Khandker Khaldun Islam"
-  - "Sk Amir Hossain"
-  - "Palash Kumar Sarker"
-  publisher: "American Journal of Biochemistry & Biotechnology, 11(4), 191"
-  date: "2015-01-01"
-  link: "https://scholar.google.com/scholar?q=Minimum%20free%20energy%20based%20evaluation%20of%20mRNAs%20secondary%20structures%20constructed%20by%2018%20clinically%20significant%20exonic%20single%20nucleotide%20polymorphisms%20(SNPs)%20and%20haplotypes%20of%205%20missense%20SNPs%20of%20RB1%20gene"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Minimum%20free%20energy%20based%20evaluation%20of%20mRNAs%20secondary%20structures%20constructed%20by%2018%20clinically%20significant%20exonic%20single%20nucleotide%20polymorphisms%20(SNPs)%20and%20haplotypes%20of%205%20missense%20SNPs%20of%20RB1%20gene"
-  tags:
-  - "genomics"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Molecular identification of a newly isolated Bacillus subtilis BI19 and optimization of production conditions for enhanced production of extracellular amylase"
-  authors:
-  - "Biplab Kumar Dash"
-  - "M Mizanur Rahman"
-  - "Palash Kumar Sarker"
-  publisher: "BioMed Research International, 2015(1), 859805"
-  date: "2015-01-01"
-  link: "https://scholar.google.com/scholar?q=Molecular%20identification%20of%20a%20newly%20isolated%20Bacillus%20subtilis%20BI19%20and%20optimization%20of%20production%20conditions%20for%20enhanced%20production%20of%20extracellular%20amylase"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Molecular%20identification%20of%20a%20newly%20isolated%20Bacillus%20subtilis%20BI19%20and%20optimization%20of%20production%20conditions%20for%20enhanced%20production%20of%20extracellular%20amylase"
-  tags:
-  - "microbial-enzymes"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Agrobacterium-mediated transformation of eggplant (Solanum melongena L.) using cotyledon explants"
-  authors:
-  - "S Yesmin"
-  - "RH Sarker"
-  - "MI Hoque"
-  - "A Hashem"
-  - "MS Islam"
-  publisher: "Nuclear Science and Applications, 23, 41–46"
-  date: "2014-01-01"
-  link: "https://scholar.google.com/scholar?q=Agrobacterium-mediated%20transformation%20of%20eggplant%20(Solanum%20melongena%20L.)%20using%20cotyledon%20explants"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Agrobacterium-mediated%20transformation%20of%20eggplant%20(Solanum%20melongena%20L.)%20using%20cotyledon%20explants"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Efficient in vitro regeneration of chrysanthemum (Chrysanthemum morifolium Ramat.) through nodal explant culture"
-  authors:
-  - "S Yesmin"
-  - "A Hashem"
-  - "KC Das"
-  - "MM Hasan"
-  - "MS Islam"
-  publisher: "Nuclear science and applications, 23(1&2), 47–50"
-  date: "2014-01-01"
-  link: "https://scholar.google.com/scholar?q=Efficient%20in%20vitro%20regeneration%20of%20chrysanthemum%20(Chrysanthemum%20morifolium%20Ramat.)%20through%20nodal%20explant%20culture"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Efficient%20in%20vitro%20regeneration%20of%20chrysanthemum%20(Chrysanthemum%20morifolium%20Ramat.)%20through%20nodal%20explant%20culture"
-  tags:
-  - "biotechnology"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Optimization and partial characterization of culture conditions for the production of alkaline protease from Bacillus licheniformis P003"
-  authors:
-  - "Palash Kumar Sarker"
-  - "Saimon Ahmad Talukdar"
-  - "Promita Deb"
-  - "SM Abu Sayem"
-  - "Kaniz Mohsina"
-  publisher: "Springerplus, 2(1), 506"
-  date: "2013-01-01"
-  link: "https://scholar.google.com/scholar?q=Optimization%20and%20partial%20characterization%20of%20culture%20conditions%20for%20the%20production%20of%20alkaline%20protease%20from%20Bacillus%20licheniformis%20P003"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Optimization%20and%20partial%20characterization%20of%20culture%20conditions%20for%20the%20production%20of%20alkaline%20protease%20from%20Bacillus%20licheniformis%20P003"
-  tags:
-  - "microbial-enzymes"
-  plugin: "sources.py"
-  file: "sources.yaml"
-
-- title: "Production and partial characterization of extracellular amylase enzyme from Bacillus amyloliquefaciens P-001"
-  authors:
-  - "Promita Deb"
-  - "Saimon Ahmad Talukdar"
-  - "Kaniz Mohsina"
-  - "Palash Kumar Sarker"
-  - "SM Abu Sayem"
-  publisher: "SpringerPlus, 2(1), 154"
-  date: "2013-01-01"
-  link: "https://scholar.google.com/scholar?q=Production%20and%20partial%20characterization%20of%20extracellular%20amylase%20enzyme%20from%20Bacillus%20amyloliquefaciens%20P-001"
-  type: "paper"
-  buttons:
-  - icon: "fa-solid fa-graduation-cap"
-    text: "Scholar"
-    link: "https://scholar.google.com/scholar?q=Production%20and%20partial%20characterization%20of%20extracellular%20amylase%20enzyme%20from%20Bacillus%20amyloliquefaciens%20P-001"
-  tags:
-  - "microbial-enzymes"
-  plugin: "sources.py"
-  file: "sources.yaml"
+- id: doi:10.1007/978-981-95-3612-2_14
+  title: Applications of nanotechnology in healthcare
+  authors:
+  - Md Jahirul Islam
+  - Mohammad Al Mamun
+  - Abu Hashem
+  publisher: "Biotechnological Advances in Healthomics, 375\u2013409"
+  date: '2026-01-01'
+  link: https://doi.org/10.1007/978-981-95-3612-2_14
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1007/978-981-95-3612-2_14
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Applications%20of%20nanotechnology%20in%20healthcare
+  tags:
+  - biosensors
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/B978-0-443-26627-0.00013-0
+  title: 'Graphene from lab to fab: challenges and opportunities'
+  authors:
+  - Mohammad Al Mamun
+  - Abu Hashem
+  - Yasmin Abdul Wahab
+  - Ab Rahman Marlinda
+  - MA Motalib Hossain
+  - Mohd Rafie Johan
+  publisher: "Graphene: Synthesis, Properties, Technology and Applications, 343\u2013\
+    369"
+  date: '2026-01-01'
+  link: https://doi.org/10.1016/B978-0-443-26627-0.00013-0
+  type: paper
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1016/B978-0-443-26627-0.00013-0
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Graphene%20from%20lab%20to%20fab%3A%20challenges%20and%20opportunities
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: New Perspective on Functionalized Metal Nanoparticles and Two-Dimensional
+    Nanomaterials-Based Composites for Electrochemical Biomarker Sensing and Energy
+    Storage Devices
+  authors:
+  - Ab Rahman Marlinda
+  - Gregory Soon How Thien
+  - Mohd Arif Mohd Sarjidan
+  - Abu Hashem
+  - Mohammad Al Mamun
+  - Khairul Anwar Ishak
+  - Elmuez Dawi
+  - Atef AbdElKader
+  - Abd Al Karim Haj Ismail
+  - Rafat M Ibrahim
+  - et al.
+  publisher: The Chemical Record, e202500315
+  date: '2026-01-01'
+  link: https://scholar.google.com/scholar?q=New%20Perspective%20on%20Functionalized%20Metal%20Nanoparticles%20and%20Two-Dimensional%20Nanomaterials-Based%20Composites%20for%20Electrochemical%20Biomarker%20Sensing%20and%20Energy%20Storage%20Devices
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=New%20Perspective%20on%20Functionalized%20Metal%20Nanoparticles%20and%20Two-Dimensional%20Nanomaterials-Based%20Composites%20for%20Electrochemical%20Biomarker%20Sensing%20and%20Energy%20Storage%20Devices
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12602-025-10775-0
+  title: "Three Characterized Probiotics from Dairy Sources\u2014Weissella confusa\
+    \ (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)\u2014\
+    Exhibit Potential for Antidiarrheal Effects"
+  authors:
+  - Jannatul Ferdous
+  - Md. Saddam Hossain
+  - Palash Kumar Sarker
+  - Md. Shimul Bhuia
+  - Md. Sakib Al Hasan
+  - Raihan Chowdhury
+  - Md. Sarafat Ali
+  - Md. Robiul Auwal
+  - Keshob Chandra Das
+  - Muhammad Torequl Islam
+  - Abu Hashem
+  - Md. Salimullah
+  publisher: "Probiotics and Antimicrobial Proteins, 18(3), 4380\u20134395"
+  date: '2026-01-01'
+  link: https://doi.org/10.1007/s12602-025-10775-0
+  type: paper
+  image: images/pub-probiotics-2026.svg
+  description: Characterizes three indigenous dairy-derived lactic acid bacterial
+    strains and evaluates their gastrointestinal resilience, safety, and antidiarrheal
+    potential.
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1007/s12602-025-10775-0
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Three%20Characterized%20Probiotics%20from%20Dairy%20Sources%E2%80%94Weissella%20confusa%20(ProY%205.1)%2C%20Enterococcus%20lactis%20(ProY%205.3)%2C%20and%20Leuconostoc%20lactis%20(RM%202.1)%E2%80%94Exhibit%20Potential%20for%20Antidiarrheal%20Effects
+  tags:
+  - probiotics
+  - amr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.microb.2025.100562
+  title: A Comprehensive Pangenome Approach to Exploring the Probiotic Potential of
+    Weissella Confusa
+  authors:
+  - Md Saddam Hossain
+  - Shanjana Rahman Tuli
+  - Nigar Fatima
+  - Sobur Ali
+  - Shovan Basak Moon
+  - Abu Hashem
+  publisher: The Microbe, 100562
+  date: '2025-01-01'
+  link: https://doi.org/10.1016/j.microb.2025.100562
+  type: paper
+  image: images/pub-weissella-2025.svg
+  description: Comparative pangenome-scale analysis mapping core and accessory probiotic
+    traits, carbohydrate-active enzymes, and safety determinants across Weissella
+    confusa.
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1016/j.microb.2025.100562
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=A%20Comprehensive%20Pangenome%20Approach%20to%20Exploring%20the%20Probiotic%20Potential%20of%20Weissella%20Confusa
+  tags:
+  - probiotics
+  - genomics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-97481-6_9
+  title: Advances in microbial-based electrochemical biosensors for heavy metal detection
+  authors:
+  - Ab Rahman Marlinda
+  - Norazriena Yusoff
+  - Abu Hashem
+  - Suresh Sagadevan
+  publisher: "Advances in Biomaterials Research, 355\u2013370"
+  date: '2025-01-01'
+  link: https://doi.org/10.1007/978-3-031-97481-6_9
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1007/978-3-031-97481-6_9
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Advances%20in%20microbial-based%20electrochemical%20biosensors%20for%20heavy%20metal%20detection
+  tags:
+  - biosensors
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.71193/jcid.20250002
+  title: 'Antioxidant activity of promising probiotic potential Lactobacillus plantarum:
+    a review'
+  authors:
+  - Jannatul Ferdous
+  - Raihan Chowdhury
+  - Md Sarafat Ali
+  - Abu Hashem
+  publisher: "Journal of Chemistry Insights and Discoveries, 1(01), 1\u20136"
+  date: '2025-01-01'
+  link: https://doi.org/10.71193/jcid.20250002
+  type: paper
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.71193/jcid.20250002
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Antioxidant%20activity%20of%20promising%20probiotic%20potential%20Lactobacillus%20plantarum%3A%20a%20review
+  tags:
+  - probiotics
+  plugin: sources.py
+  file: sources.yaml
+- title: Application of Biomaterials for Tissue Engineering
+  authors:
+  - Abu Hashem
+  - Ab Rahman Marlinda
+  - MA Motalib Hossain
+  - Mohammad Al Mamun
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  publisher: "Advances in Biomaterials Research, 121\u2013166"
+  date: '2025-01-01'
+  link: https://scholar.google.com/scholar?q=Application%20of%20Biomaterials%20for%20Tissue%20Engineering
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Application%20of%20Biomaterials%20for%20Tissue%20Engineering
+  tags:
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11756-025-01866-y
+  title: 'Exploration of the metabolic potential of the Corallococcus genus: a rich
+    source of secondary metabolites and CAZymes'
+  authors:
+  - Md Saddam Hossain
+  - Shanjana Rahman Tuli
+  - Nigar Fatima
+  - Md Tauhidul Islam Tanim
+  - Abu Hashem
+  publisher: "Biologia, 80(3), 685\u2013696"
+  date: '2025-01-01'
+  link: https://doi.org/10.1007/s11756-025-01866-y
+  type: paper
+  image: images/pub-corallococcus-2025.svg
+  description: Genome-wide biosynthetic gene cluster (BGC) and CAZyme repertoire mining
+    across myxobacterial Corallococcus genomes for natural-product discovery.
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1007/s11756-025-01866-y
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Exploration%20of%20the%20metabolic%20potential%20of%20the%20Corallococcus%20genus%3A%20a%20rich%20source%20of%20secondary%20metabolites%20and%20CAZymes
+  tags:
+  - drug-discovery
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jgeb.2025.100508
+  title: 'Exploring the antibacterial potential of environmental Pseudomonas aeruginosa
+    isolates: Insights from in vitro studies and genome mining approaches'
+  authors:
+  - Md Saddam Hossain
+  - Afroza Aktar Sharna
+  - Sumaiya Sharmin
+  - Tahrima Arman Tusty
+  - Abu Hashem
+  - Palash Kumar Sarker
+  publisher: Journal of Genetic Engineering and Biotechnology, 23(3), 100508
+  date: '2025-01-01'
+  link: https://doi.org/10.1016/j.jgeb.2025.100508
+  type: paper
+  image: images/pub-pseudomonas-2025.svg
+  description: Integrates in vitro antibacterial screening of environmental isolates
+    with whole-genome secondary-metabolite cluster analysis.
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1016/j.jgeb.2025.100508
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Exploring%20the%20antibacterial%20potential%20of%20environmental%20Pseudomonas%20aeruginosa%20isolates%3A%20Insights%20from%20in%20vitro%20studies%20and%20genome%20mining%20approaches
+  tags:
+  - genomics
+  - drug-discovery
+  plugin: sources.py
+  file: sources.yaml
+- title: 'From sequence to significance: A thorough investigation of the distinctive
+    genome features uncovered in C. Werkmanii strain NIB003'
+  authors:
+  - Mohammad Uzzal Hossain
+  - Neyamat Khan Tanvir
+  - ABZ Naimur Rahman
+  - Zeshan Mahmud Chowdhury
+  - Md Shahadat Hossain
+  - Shajib Dey
+  - Arittra Bhattacharjee
+  - Ishtiaque Ahammad
+  - Umme Salma Zohora
+  - Abu Hashem
+  - et al.
+  publisher: Gene, 933, 148965
+  date: '2025-01-01'
+  link: https://scholar.google.com/scholar?q=From%20sequence%20to%20significance%3A%20A%20thorough%20investigation%20of%20the%20distinctive%20genome%20features%20uncovered%20in%20C.%20Werkmanii%20strain%20NIB003
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=From%20sequence%20to%20significance%3A%20A%20thorough%20investigation%20of%20the%20distinctive%20genome%20features%20uncovered%20in%20C.%20Werkmanii%20strain%20NIB003
+  tags:
+  - genomics
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Linking Genomic Landscape to Disease Mechanism: Core Genetic Factors Underlying
+    Pathogenesis and Antimicrobial Resistance in Diarrheal Pathogens'
+  authors:
+  - Mohammad Uzzal Hossain
+  - Marjia Akter Suchi
+  - Zeba Sanjida
+  - ABZ Naimur Rahman
+  - Mohammad Nazmus Sakib
+  - SM Sajid Hasan
+  - Md Ekram Hossan
+  - Abu Nayeem Ahmed
+  - Mahmudul Hasan
+  - Tamal Paul
+  - et al.
+  publisher: "bioRxiv, 2025\u201308"
+  date: '2025-01-01'
+  link: https://scholar.google.com/scholar?q=Linking%20Genomic%20Landscape%20to%20Disease%20Mechanism%3A%20Core%20Genetic%20Factors%20Underlying%20Pathogenesis%20and%20Antimicrobial%20Resistance%20in%20Diarrheal%20Pathogens
+  type: preprint
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Linking%20Genomic%20Landscape%20to%20Disease%20Mechanism%3A%20Core%20Genetic%20Factors%20Underlying%20Pathogenesis%20and%20Antimicrobial%20Resistance%20in%20Diarrheal%20Pathogens
+  tags:
+  - genomics
+  - amr
+  - preprint
+  plugin: sources.py
+  file: sources.yaml
+- title: More land, more diverse diets? Exploring production and consumption trade-offs
+    in the eastern Indo-Gangetic plains
+  authors:
+  - Sreejith Aravindakshan
+  - Alison Laing
+  - Mustafa Kamal
+  - Saral Karki
+  - Ravi Nandi
+  - Pankaj Koirala
+  - Pushpa Poudel
+  - Palash Sarker
+  - Zannatul Ferdous
+  - Md Abu Sayem
+  - et al.
+  publisher: "IFPRI book chapters, 50\u201361"
+  date: '2025-01-01'
+  link: https://scholar.google.com/scholar?q=More%20land%2C%20more%20diverse%20diets%3F%20Exploring%20production%20and%20consumption%20trade-offs%20in%20the%20eastern%20Indo-Gangetic%20plains
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=More%20land%2C%20more%20diverse%20diets%3F%20Exploring%20production%20and%20consumption%20trade-offs%20in%20the%20eastern%20Indo-Gangetic%20plains
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neulet.2024.138007
+  title: "Phytol exerts sedative-like effects and modulates the diazepam and flumazenil\u2019\
+    s action, possibly through the GABAA receptor interaction pathway"
+  authors:
+  - Md Torequl Islam
+  - Jannatul Ferdous
+  - Md Sakib Al Hasan
+  - Abu Hashem
+  - Mehedi Hasan Bappi
+  - Siddique Akber Ansari
+  - Md Amirul Islam
+  - Md Saifuzzaman
+  publisher: Neuroscience Letters, 842, 138007
+  date: '2024-01-01'
+  link: https://doi.org/10.1016/j.neulet.2024.138007
+  type: paper
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1016/j.neulet.2024.138007
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Phytol%20exerts%20sedative-like%20effects%20and%20modulates%20the%20diazepam%20and%20flumazenil%E2%80%99s%20action%2C%20possibly%20through%20the%20GABAA%20receptor%20interaction%20pathway
+  tags:
+  - drug-discovery
+  plugin: sources.py
+  file: sources.yaml
+- title: A unique oligonucleotide probe hybrid on graphene decorated gold nanoparticles
+    modified screen-printed carbon electrode for pork meat adulteration
+  authors:
+  - Abu Hashem
+  - Ab Rahman Marlinda
+  - MA Motalib Hossain
+  - Mohammad Al Mamun
+  - Md Shalauddin
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  publisher: "Electrocatalysis, 14(2), 179\u2013194"
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=A%20unique%20oligonucleotide%20probe%20hybrid%20on%20graphene%20decorated%20gold%20nanoparticles%20modified%20screen-printed%20carbon%20electrode%20for%20pork%20meat%20adulteration
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=A%20unique%20oligonucleotide%20probe%20hybrid%20on%20graphene%20decorated%20gold%20nanoparticles%20modified%20screen-printed%20carbon%20electrode%20for%20pork%20meat%20adulteration
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: Determination of the Aptamer Probe Density by double layer and redox capacitance
+    of CNT-based electrochemical DNA-Aptasensors
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - MA Motalib Hossain
+  - Abu Hashem
+  - Mohd Rafie Johan
+  - Nurul Ezaila Alias
+  - Hanim Hussin
+  - Maizan Muhamad
+  publisher: "2023 IEEE Regional Symposium on Micro and Nanoelectronics (RSM), 74\u2013\
+    77"
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=Determination%20of%20the%20Aptamer%20Probe%20Density%20by%20double%20layer%20and%20redox%20capacitance%20of%20CNT-based%20electrochemical%20DNA-Aptasensors
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Determination%20of%20the%20Aptamer%20Probe%20Density%20by%20double%20layer%20and%20redox%20capacitance%20of%20CNT-based%20electrochemical%20DNA-Aptasensors
+  tags:
+  - biosensors
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Differential Pulse Voltammetric Tuning of the Screen-Printed Carbon Electrode
+    Surface to Enhance the Electrochemical Performance and Multiplex Detection
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - MA Motalib Hossain
+  - Abu Hashem
+  - Nor Aliya Hamizi
+  - Zaira Zaman Chowdhury
+  - Sharifah Fatmadiana Wan Muhamad Hattad
+  - Irfan Anjum Badruddin
+  - Sarfaraz Kamangar
+  - Mohd Rafie Johan
+  publisher: Journal of The Electrochemical Society, 170(7), 076510
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=Differential%20Pulse%20Voltammetric%20Tuning%20of%20the%20Screen-Printed%20Carbon%20Electrode%20Surface%20to%20Enhance%20the%20Electrochemical%20Performance%20and%20Multiplex%20Detection
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Differential%20Pulse%20Voltammetric%20Tuning%20of%20the%20Screen-Printed%20Carbon%20Electrode%20Surface%20to%20Enhance%20the%20Electrochemical%20Performance%20and%20Multiplex%20Detection
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: "DNA-Aptamer\u2013Based Electrochemical Biosensors for the Detection of Thrombin:\
+    \ Fundamentals and Applications"
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - MA Motalib Hossain
+  - Abu Hashem
+  - Mohd Rafie Johan
+  publisher: "Functional Nanomaterials for Sensors, 201\u2013221"
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=DNA-Aptamer%E2%80%93Based%20Electrochemical%20Biosensors%20for%20the%20Detection%20of%20Thrombin%3A%20Fundamentals%20and%20Applications
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=DNA-Aptamer%E2%80%93Based%20Electrochemical%20Biosensors%20for%20the%20Detection%20of%20Thrombin%3A%20Fundamentals%20and%20Applications
+  tags:
+  - biosensors
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: 'From Sequence to Significance: A Thorough Investigation of the Distinctive
+    Genome Traits Uncovered in C. werkmanii strain NIB003'
+  authors:
+  - Mohammad Uzzal Hossain
+  - Neyamat Khan Tanvir
+  - Zeshan Mahmud Chowdhury
+  - ABZ Naimur Rahman
+  - Md Shahadat Hossain
+  - Shajib Dey
+  - Arittra Bhattacharjee
+  - Ishtiaqe Ahmed
+  - Abu Hashem
+  - Keshob Chandra Das
+  - et al.
+  publisher: "bioRxiv, 2023\u201311"
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=From%20Sequence%20to%20Significance%3A%20A%20Thorough%20Investigation%20of%20the%20Distinctive%20Genome%20Traits%20Uncovered%20in%20C.%20werkmanii%20strain%20NIB003
+  type: preprint
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=From%20Sequence%20to%20Significance%3A%20A%20Thorough%20Investigation%20of%20the%20Distinctive%20Genome%20Traits%20Uncovered%20in%20C.%20werkmanii%20strain%20NIB003
+  tags:
+  - genomics
+  - preprint
+  plugin: sources.py
+  file: sources.yaml
+- title: Genome Mining of Salinispora Uncovers a Repertoire of Secondary Metabolites
+    and Carbohydrate-Active Enzymes
+  authors:
+  - Md Saddam Hossain
+  - Md Tarikul Islam
+  - Md Hadisur Rahman
+  - Abdullah Al Zubaer
+  - Abu Hashem
+  publisher: "bioRxiv, 2023\u201309"
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=Genome%20Mining%20of%20Salinispora%20Uncovers%20a%20Repertoire%20of%20Secondary%20Metabolites%20and%20Carbohydrate-Active%20Enzymes
+  type: preprint
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Genome%20Mining%20of%20Salinispora%20Uncovers%20a%20Repertoire%20of%20Secondary%20Metabolites%20and%20Carbohydrate-Active%20Enzymes
+  tags:
+  - genomics
+  - microbial-enzymes
+  - drug-discovery
+  - preprint
+  plugin: sources.py
+  file: sources.yaml
+- title: Genome-Wide Exploration of the Opportunistic Providencia stuartii Unveils
+    the Novel Genetic Interactions with the Virulence Gene of Diarrheal Pathogens
+  authors:
+  - Mohammad Uzzal Hossain
+  - Md Shahadat Hossain
+  - ABZ Naimur Rahman
+  - Shajib Dey
+  - Zeshan Mahmud Chowdhury
+  - Arittra Bhattacharjee
+  - Ishtiaque Ahammad
+  - Md Abdul Aziz
+  - Abu Hashem
+  - Keshob Chandra Das
+  - et al.
+  publisher: "bioRxiv, 2023\u201311"
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=Genome-Wide%20Exploration%20of%20the%20Opportunistic%20Providencia%20stuartii%20Unveils%20the%20Novel%20Genetic%20Interactions%20with%20the%20Virulence%20Gene%20of%20Diarrheal%20Pathogens
+  type: preprint
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Genome-Wide%20Exploration%20of%20the%20Opportunistic%20Providencia%20stuartii%20Unveils%20the%20Novel%20Genetic%20Interactions%20with%20the%20Virulence%20Gene%20of%20Diarrheal%20Pathogens
+  tags:
+  - genomics
+  - amr
+  - preprint
+  plugin: sources.py
+  file: sources.yaml
+- title: Graphene as a lubricant additive for reducing friction and wear in its liquid-based
+    form
+  authors:
+  - Ab Rahman Marlinda
+  - Gregory Soon How Thien
+  - Mehmood Shahid
+  - Ting Yang Ling
+  - Abu Hashem
+  - Kah-Yoong Chan
+  - Mohd Rafie Johan
+  publisher: Lubricants, 11(1), 29
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=Graphene%20as%20a%20lubricant%20additive%20for%20reducing%20friction%20and%20wear%20in%20its%20liquid-based%20form
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Graphene%20as%20a%20lubricant%20additive%20for%20reducing%20friction%20and%20wear%20in%20its%20liquid-based%20form
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Nanocellulose-based carbon nanocomposite for the electrochemical sensing
+    application for pharmaceuticals: A review'
+  authors:
+  - Md Shalauddin
+  - Wan Jeffrey Basirun
+  - Akhter Shamima
+  - Abu Hashem
+  - Marlinda Ab Rahman
+  publisher: "Malaysian NANO-An International Journal (MNIJ), 3(1), 1\u201316"
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=Nanocellulose-based%20carbon%20nanocomposite%20for%20the%20electrochemical%20sensing%20application%20for%20pharmaceuticals%3A%20A%20review
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Nanocellulose-based%20carbon%20nanocomposite%20for%20the%20electrochemical%20sensing%20application%20for%20pharmaceuticals%3A%20A%20review
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: Prevalence of Multidrug-Resistant Salmonella in Raw Salad Vegetables in Dhaka
+    Metropolitan Area
+  authors:
+  - Palash Kumar Sarker
+  - Hafizur Rahman
+  - Kulsum Ara
+  - Md Shahidul Kabir
+  - Shishir Kanti Pramanik
+  - Maruf Hasan
+  publisher: "MIST International Journal of Science and Technology, 51\u201357"
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=Prevalence%20of%20Multidrug-Resistant%20Salmonella%20in%20Raw%20Salad%20Vegetables%20in%20Dhaka%20Metropolitan%20Area
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Prevalence%20of%20Multidrug-Resistant%20Salmonella%20in%20Raw%20Salad%20Vegetables%20in%20Dhaka%20Metropolitan%20Area
+  tags:
+  - amr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-981-99-3901-5_17
+  title: The impact of textile dyes on the environment
+  authors:
+  - Tanzina Akter
+  - Anica Tasnim Protity
+  - Modhusudon Shaha
+  - Mohammad Al Mamun
+  - Abu Hashem
+  publisher: "Nanohybrid materials for treatment of textiles dyes, 401\u2013431"
+  date: '2023-01-01'
+  link: https://doi.org/10.1007/978-981-99-3901-5_17
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1007/978-981-99-3901-5_17
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=The%20impact%20of%20textile%20dyes%20on%20the%20environment
+  tags:
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Unraveling Coinfection Dynamics into 100 Whole Genome of Diarrheal Pathogens:
+    A Genome-to-Systems Biology Approach with Plesiomonas shigelloides'
+  authors:
+  - Mohammad Uzzal Hossain
+  - ABZ Naimur Rahman
+  - Md Shahadat Hossain
+  - Shajib Dey
+  - Zeshan Mahmud Chowdhury
+  - Arittra Bhattacharjee
+  - Ishtiaque Ahammad
+  - Md Imran Ahmed
+  - Khandokar Fahmida Sultana
+  - Abu Hashem
+  - et al.
+  publisher: "bioRxiv, 2023\u201311"
+  date: '2023-01-01'
+  link: https://scholar.google.com/scholar?q=Unraveling%20Coinfection%20Dynamics%20into%20100%20Whole%20Genome%20of%20Diarrheal%20Pathogens%3A%20A%20Genome-to-Systems%20Biology%20Approach%20with%20Plesiomonas%20shigelloides
+  type: preprint
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Unraveling%20Coinfection%20Dynamics%20into%20100%20Whole%20Genome%20of%20Diarrheal%20Pathogens%3A%20A%20Genome-to-Systems%20Biology%20Approach%20with%20Plesiomonas%20shigelloides
+  tags:
+  - genomics
+  - amr
+  - preprint
+  plugin: sources.py
+  file: sources.yaml
+- title: Advancements in detection approaches of severe acute respiratory syndrome
+    coronavirus 2
+  authors:
+  - MA Motalib Hossain
+  - Syed Muhammad Kamal Uddin
+  - Abu Hashem
+  - Mohammad Al Mamun
+  - Suresh Sagadevan
+  - Mohd Rafie Johan
+  publisher: 'The Malaysian Journal of Medical Sciences: MJMS, 29(6), 15'
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Advancements%20in%20detection%20approaches%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Advancements%20in%20detection%20approaches%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Agroforestry potential of a wild mango species (Mangifera sylvatica Roxb.)
+  authors:
+  - Sayma Akhter
+  - Morag McDonald
+  - Mohammed Jashimuddin
+  - Md Bashirul-Al-Mamun
+  - Palash Sarker
+  publisher: Trees, Forests and People, 7, 100194
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Agroforestry%20potential%20of%20a%20wild%20mango%20species%20(Mangifera%20sylvatica%20Roxb.)
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Agroforestry%20potential%20of%20a%20wild%20mango%20species%20(Mangifera%20sylvatica%20Roxb.)
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Application of microbial fuel cells as biosensors
+  authors:
+  - Abu Hashem
+  - Khanom Simarani
+  - Ab Rahman Marlinda
+  - MA Motalib Hossain
+  - Mohammad Al Mamun
+  - Mohd Rafie Johan
+  publisher: "Microbial Fuel Cells for Environmental Remediation, 349\u2013387"
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Application%20of%20microbial%20fuel%20cells%20as%20biosensors
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Application%20of%20microbial%20fuel%20cells%20as%20biosensors
+  tags:
+  - biosensors
+  - microbial-fuel-cells
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Applications of nanocellulose as biosensing platforms for the detection
+    of functional biomacromolecules: A Review'
+  authors:
+  - Abu Hashem
+  - Ibrahim Khalil
+  - Mohammad Al Mamun
+  - Md Shalauddin
+  - MA Motalib Hossain
+  - Marlinda Ab Rahman
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  publisher: "Malaysian NANO-An International Journal (MNIJ), 2(1), 15\u201345"
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Applications%20of%20nanocellulose%20as%20biosensing%20platforms%20for%20the%20detection%20of%20functional%20biomacromolecules%3A%20A%20Review
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Applications%20of%20nanocellulose%20as%20biosensing%20platforms%20for%20the%20detection%20of%20functional%20biomacromolecules%3A%20A%20Review
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Corrigendum: Chapter 7. The role of the proton exchange membrane (PEM) in
+    microbial fuel cell performance'
+  authors:
+  - Tanzina Akter
+  - Modhusudon Shaha
+  - Mohammad Al Mamun
+  - Md Abu Sayem Khan
+  - Abu Hashem
+  publisher: "Microbial Fuel Cells: Emerging trends in electrochemical applications,\
+    \ 21\u20131"
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Corrigendum%3A%20Chapter%207.%20The%20role%20of%20the%20proton%20exchange%20membrane%20(PEM)%20in%20microbial%20fuel%20cell%20performance
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Corrigendum%3A%20Chapter%207.%20The%20role%20of%20the%20proton%20exchange%20membrane%20(PEM)%20in%20microbial%20fuel%20cell%20performance
+  tags:
+  - biosensors
+  - microbial-fuel-cells
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Electrochemistry of Green Ag Nanoparticles Modified Electrode Surface
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - MA Motalib Hossain
+  - Abu Hashem
+  - Kamrul Alam Khan
+  - Mohd Rafie Johan
+  - Hanim Hussin
+  - Nurul Ezaila Alias
+  publisher: "2022 IEEE International Conference on Semiconductor Electronics (ICSE),\
+    \ 37\u201340"
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Electrochemistry%20of%20Green%20Ag%20Nanoparticles%20Modified%20Electrode%20Surface
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Electrochemistry%20of%20Green%20Ag%20Nanoparticles%20Modified%20Electrode%20Surface
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: Identification of a novel variant of hepatitis B virus isolated from patient
+    co-infected with hepatitis C virus
+  authors:
+  - Modhusudon Shaha
+  - Sumen Majumder
+  - Md Saddam Hossain
+  - Munira Jahan
+  - Raad Rahmat
+  - Ridwana Asma
+  - Mohammad Ariful Islam
+  - Md Hadisur Rahman
+  - Keshob Chandra Das
+  - Palash Kumar Sarker
+  - et al.
+  publisher: Virus research, 319, 198859
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Identification%20of%20a%20novel%20variant%20of%20hepatitis%20B%20virus%20isolated%20from%20patient%20co-infected%20with%20hepatitis%20C%20virus
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Identification%20of%20a%20novel%20variant%20of%20hepatitis%20B%20virus%20isolated%20from%20patient%20co-infected%20with%20hepatitis%20C%20virus
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Intra-genotypic Recombination and Polymorphisms of Hepatitis B Virus Genome
+    Circulating in Bangladesh
+  authors:
+  - M Shaha
+  - M Salimullah
+  publisher: International Journal of Infectious Diseases, 116, S20
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Intra-genotypic%20Recombination%20and%20Polymorphisms%20of%20Hepatitis%20B%20Virus%20Genome%20Circulating%20in%20Bangladesh
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Intra-genotypic%20Recombination%20and%20Polymorphisms%20of%20Hepatitis%20B%20Virus%20Genome%20Circulating%20in%20Bangladesh
+  tags:
+  - genomics
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Nucleic acid-based electrochemical biosensors for rapid clinical diagnosis:
+    Advances, challenges, and opportunities'
+  authors:
+  - Abu Hashem
+  - MA Motalib Hossain
+  - Ab Rahman Marlinda
+  - Mohammad Al Mamun
+  - Suresh Sagadevan
+  - Zohreh Shahnavaz
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  publisher: "Critical reviews in clinical laboratory sciences, 59(3), 156\u2013177"
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Nucleic%20acid-based%20electrochemical%20biosensors%20for%20rapid%20clinical%20diagnosis%3A%20Advances%2C%20challenges%2C%20and%20opportunities
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Nucleic%20acid-based%20electrochemical%20biosensors%20for%20rapid%20clinical%20diagnosis%3A%20Advances%2C%20challenges%2C%20and%20opportunities
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: Rapid and sensitive detection of box turtles using an electrochemical DNA
+    biosensor based on a gold/graphene nanocomposite
+  authors:
+  - Abu Hashem
+  - MA Motalib Hossain
+  - Mohammad Al Mamun
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  - et al.
+  publisher: "Beilstein Journal of Nanotechnology, 13(1), 1458\u20131472"
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Rapid%20and%20sensitive%20detection%20of%20box%20turtles%20using%20an%20electrochemical%20DNA%20biosensor%20based%20on%20a%20gold%2Fgraphene%20nanocomposite
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Rapid%20and%20sensitive%20detection%20of%20box%20turtles%20using%20an%20electrochemical%20DNA%20biosensor%20based%20on%20a%20gold%2Fgraphene%20nanocomposite
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Scrap Gold Recovery: Recycling, Fabrication and Electrochemical Characterization
+    of Low-Cost Gold Electrode'
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - MA Motalib Hossain
+  - Abu Hashem
+  - Mohd Rafie Johan
+  publisher: "Malaysian Catalysis-An International Journal, 2(1), 1\u201320"
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=Scrap%20Gold%20Recovery%3A%20Recycling%2C%20Fabrication%20and%20Electrochemical%20Characterization%20of%20Low-Cost%20Gold%20Electrode
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Scrap%20Gold%20Recovery%3A%20Recycling%2C%20Fabrication%20and%20Electrochemical%20Characterization%20of%20Low-Cost%20Gold%20Electrode
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: The role of the proton exchange membrane (PEM) in microbial fuel cell performance
+  authors:
+  - Tanzina Akter
+  - Modhusudon Shaha
+  - Mohammad Al Mamun
+  - Md Abu Sayem Khan
+  - Abu Hashem
+  publisher: "Microbial Fuel Cells: Emerging trends in electrochemical applications,\
+    \ 7\u20131"
+  date: '2022-01-01'
+  link: https://scholar.google.com/scholar?q=The%20role%20of%20the%20proton%20exchange%20membrane%20(PEM)%20in%20microbial%20fuel%20cell%20performance
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=The%20role%20of%20the%20proton%20exchange%20membrane%20(PEM)%20in%20microbial%20fuel%20cell%20performance
+  tags:
+  - biosensors
+  - microbial-fuel-cells
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Clinical manifestations of hospitalized COVID-19 patients in Bangladesh:
+    a 14-day observational study'
+  authors:
+  - Modhusudon Shaha
+  - Md A Islam
+  - Faizul Huq
+  - Bithi Roy
+  - Md A Kabir
+  - Md Salimullah
+  - Mamun Al Mahtab
+  - Sheikh MF Akbar
+  publisher: Euroasian journal of hepato-gastroenterology, 11(1), 14
+  date: '2021-01-01'
+  link: https://scholar.google.com/scholar?q=Clinical%20manifestations%20of%20hospitalized%20COVID-19%20patients%20in%20Bangladesh%3A%20a%2014-day%20observational%20study
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Clinical%20manifestations%20of%20hospitalized%20COVID-19%20patients%20in%20Bangladesh%3A%20a%2014-day%20observational%20study
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Detection of herpes simplex virus 2: A SYBR-Green-based real-time PCR assay'
+  authors:
+  - Modhusudon Shaha
+  - Bithi Roy
+  - Mohammad Ariful Islam
+  publisher: F1000Research, 10, 655
+  date: '2021-01-01'
+  link: https://scholar.google.com/scholar?q=Detection%20of%20herpes%20simplex%20virus%202%3A%20A%20SYBR-Green-based%20real-time%20PCR%20assay
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Detection%20of%20herpes%20simplex%20virus%202%3A%20A%20SYBR-Green-based%20real-time%20PCR%20assay
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: DNA-based methods for species identification in food forensic science
+  authors:
+  - MA Motalib Hossain
+  - Syed Muhammad Kamal Uddin
+  - Sharmin Sultana
+  - Abu Hashem
+  - Myrto Rizou
+  - Turki MS Aldawoud
+  - Charis M Galanakis
+  - Mohd Rafie Johan
+  publisher: "Food toxicology and forensics, 181\u2013211"
+  date: '2021-01-01'
+  link: https://scholar.google.com/scholar?q=DNA-based%20methods%20for%20species%20identification%20in%20food%20forensic%20science
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=DNA-based%20methods%20for%20species%20identification%20in%20food%20forensic%20science
+  tags:
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: 'DNA/Nano based advanced genetic detection tools for authentication of species:
+    Strategies, prospects and limitations'
+  authors:
+  - Ibrahim Khalil
+  - Abu Hashem
+  - Amit R Nath
+  - Nurhidayatullaili Muhd Julkapli
+  - Wageeh A Yehye
+  - Wan Jeffrey Basirun
+  publisher: Molecular and cellular probes, 59, 101758
+  date: '2021-01-01'
+  link: https://scholar.google.com/scholar?q=DNA%2FNano%20based%20advanced%20genetic%20detection%20tools%20for%20authentication%20of%20species%3A%20Strategies%2C%20prospects%20and%20limitations
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=DNA%2FNano%20based%20advanced%20genetic%20detection%20tools%20for%20authentication%20of%20species%3A%20Strategies%2C%20prospects%20and%20limitations
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Electrochemical biosensors with Aptamer recognition layer for the diagnosis
+    of pathogenic bacteria: Barriers to commercialization and remediation'
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - MA Motalib Hossain
+  - Abu Hashem
+  - Mohd Rafie Johan
+  publisher: TrAC Trends in Analytical Chemistry, 145, 116458
+  date: '2021-01-01'
+  link: https://scholar.google.com/scholar?q=Electrochemical%20biosensors%20with%20Aptamer%20recognition%20layer%20for%20the%20diagnosis%20of%20pathogenic%20bacteria%3A%20Barriers%20to%20commercialization%20and%20remediation
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Electrochemical%20biosensors%20with%20Aptamer%20recognition%20layer%20for%20the%20diagnosis%20of%20pathogenic%20bacteria%3A%20Barriers%20to%20commercialization%20and%20remediation
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: Keratinolytic protease from Pseudomonas aeruginosa for leather skin processing
+  authors:
+  - Yeasmin Akter Moonnee
+  - Md Javed Foysal
+  - Abu Hashem
+  - Md Faruque Miah
+  publisher: Journal of Genetic Engineering and Biotechnology, 19(1), 53
+  date: '2021-01-01'
+  link: https://scholar.google.com/scholar?q=Keratinolytic%20protease%20from%20Pseudomonas%20aeruginosa%20for%20leather%20skin%20processing
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Keratinolytic%20protease%20from%20Pseudomonas%20aeruginosa%20for%20leather%20skin%20processing
+  tags:
+  - microbial-enzymes
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Nanomaterials based electrochemical nucleic acid biosensors for environmental
+    monitoring: A review'
+  authors:
+  - Abu Hashem
+  - MA Motalib Hossain
+  - Mohammad Al Mamun
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  - et al.
+  publisher: Applied Surface Science Advances, 4, 100064
+  date: '2021-01-01'
+  link: https://scholar.google.com/scholar?q=Nanomaterials%20based%20electrochemical%20nucleic%20acid%20biosensors%20for%20environmental%20monitoring%3A%20A%20review
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Nanomaterials%20based%20electrochemical%20nucleic%20acid%20biosensors%20for%20environmental%20monitoring%3A%20A%20review
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: Sonofragmentation Synthesis of Composition-Controlled Iron-Cobalt Nanoparticles
+    with Enhanced Magnetic Properties
+  authors:
+  - Brajalal Sinha
+  - Rubayet Tanveer
+  - Palash Kumar Sarker
+  - Md Nazrul Islam
+  publisher: "Materials Performance and Characterization, 10(1), 718\u2013726"
+  date: '2021-01-01'
+  link: https://scholar.google.com/scholar?q=Sonofragmentation%20Synthesis%20of%20Composition-Controlled%20Iron-Cobalt%20Nanoparticles%20with%20Enhanced%20Magnetic%20Properties
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Sonofragmentation%20Synthesis%20of%20Composition-Controlled%20Iron-Cobalt%20Nanoparticles%20with%20Enhanced%20Magnetic%20Properties
+  tags:
+  - biosensors
+  plugin: sources.py
+  file: sources.yaml
+- title: Anticancer potential of Chenopodium album leaf extract against Ehrlich ascites
+    carcinoma cells in Swiss albino mice
+  authors:
+  - Sohel Rana
+  - Shakila Rahman
+  - Samiron Sana
+  - Tonmoy Kumar Biswas
+  - Abu Kayes Md Hashem
+  - Shahnaz Parvin
+  - Kishor Mazumder
+  publisher: Future Journal of Pharmaceutical Sciences, 6(1), 65
+  date: '2020-01-01'
+  link: https://scholar.google.com/scholar?q=Anticancer%20potential%20of%20Chenopodium%20album%20leaf%20extract%20against%20Ehrlich%20ascites%20carcinoma%20cells%20in%20Swiss%20albino%20mice
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Anticancer%20potential%20of%20Chenopodium%20album%20leaf%20extract%20against%20Ehrlich%20ascites%20carcinoma%20cells%20in%20Swiss%20albino%20mice
+  tags:
+  - drug-discovery
+  plugin: sources.py
+  file: sources.yaml
+- title: Assessment of hexavalent chromium pollution in Buriganga and Dhaleshwari
+    river waterbodies adjacent to tannery estates in Bangladesh
+  authors:
+  - Hafizur Rahman
+  - Nabila Hoque
+  - Palash Kumar Sarker
+  - Ashrafus Safa
+  publisher: "MIST International Journal of Science and Technology, 8, 11\u201315"
+  date: '2020-01-01'
+  link: https://scholar.google.com/scholar?q=Assessment%20of%20hexavalent%20chromium%20pollution%20in%20Buriganga%20and%20Dhaleshwari%20river%20waterbodies%20adjacent%20to%20tannery%20estates%20in%20Bangladesh
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Assessment%20of%20hexavalent%20chromium%20pollution%20in%20Buriganga%20and%20Dhaleshwari%20river%20waterbodies%20adjacent%20to%20tannery%20estates%20in%20Bangladesh
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Association of polymorphism in heat shock protein 70 genes with type 2 diabetes
+    in Bangladeshi population
+  authors:
+  - Md Moniruzzaman
+  - Irfan Ahmed
+  - Saaimatul Huq
+  - Md Shakur All Mahmud
+  - Sonya Begum
+  - US Mahzabin Amin
+  - Md Hadisur Rahman
+  - Palash Kumar Sarker
+  - Mohammad Uzzal Hossain
+  - Keshob Chandra Das
+  - et al.
+  publisher: Molecular Genetics & Genomic Medicine, 8(2), e1073
+  date: '2020-01-01'
+  link: https://scholar.google.com/scholar?q=Association%20of%20polymorphism%20in%20heat%20shock%20protein%2070%20genes%20with%20type%202%20diabetes%20in%20Bangladeshi%20population
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Association%20of%20polymorphism%20in%20heat%20shock%20protein%2070%20genes%20with%20type%202%20diabetes%20in%20Bangladeshi%20population
+  tags:
+  - genomics
+  plugin: sources.py
+  file: sources.yaml
+- title: Comparative evaluation of sensitivity and specificity of immunochromatography
+    kit for the rapid detection of norovirus and rotavirus in Bangladesh
+  authors:
+  - Modhusudon Shaha
+  - Sadia Farzana Sifat
+  - Md Al Mamun
+  - Md Baki Billah
+  - Nadim Sharif
+  - Nasir Uddin Nobel
+  - Anowar Khasru Parvez
+  - Ali Azam Talukder
+  - Akiko Nomura
+  - Hiroshi Ushijima
+  - et al.
+  publisher: F1000Research, 8(173), 173
+  date: '2020-01-01'
+  link: https://scholar.google.com/scholar?q=Comparative%20evaluation%20of%20sensitivity%20and%20specificity%20of%20immunochromatography%20kit%20for%20the%20rapid%20detection%20of%20norovirus%20and%20rotavirus%20in%20Bangladesh
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Comparative%20evaluation%20of%20sensitivity%20and%20specificity%20of%20immunochromatography%20kit%20for%20the%20rapid%20detection%20of%20norovirus%20and%20rotavirus%20in%20Bangladesh
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Isolation and characterization of electrogenic bacteria from tannery wastewater
+  authors:
+  - Ekramul Islam
+  - Md Saddam Hossain
+  - Palash Kumar Sarker
+  - Syeda Tasneem Towhid
+  - Md Salimullah
+  - Abu Hashem
+  publisher: "Bangladesh J Microbiol, 37(1), 23\u201327"
+  date: '2020-01-01'
+  link: https://scholar.google.com/scholar?q=Isolation%20and%20characterization%20of%20electrogenic%20bacteria%20from%20tannery%20wastewater
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Isolation%20and%20characterization%20of%20electrogenic%20bacteria%20from%20tannery%20wastewater
+  tags:
+  - microbial-fuel-cells
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Microplastics pollution in Bangladesh: current scenario and future research
+    perspective'
+  authors:
+  - Md Ekramul Karim
+  - Sohana Al Sanjee
+  - Shohel Mahmud
+  - Modhusudon Shaha
+  - Md Moniruzzaman
+  - Keshob Chandra Das
+  publisher: "Chemistry and Ecology, 36(1), 83\u201399"
+  date: '2020-01-01'
+  link: https://scholar.google.com/scholar?q=Microplastics%20pollution%20in%20Bangladesh%3A%20current%20scenario%20and%20future%20research%20perspective
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Microplastics%20pollution%20in%20Bangladesh%3A%20current%20scenario%20and%20future%20research%20perspective
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Determination of prevalence and antimicrobial sensitivity patterns of Klebsiella
+    pneumoniae from sputum sample of a tertiary care hospital
+  authors:
+  - Tanzina Akter
+  - S Khan
+  - Shamsun Nahar
+  - Kaniz Fatema
+  - Modhusudon Shaha
+  - MJ Hossain
+  - et al.
+  publisher: "Int Med J, 24(3), 29\u201335"
+  date: '2019-01-01'
+  link: https://scholar.google.com/scholar?q=Determination%20of%20prevalence%20and%20antimicrobial%20sensitivity%20patterns%20of%20Klebsiella%20pneumoniae%20from%20sputum%20sample%20of%20a%20tertiary%20care%20hospital
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Determination%20of%20prevalence%20and%20antimicrobial%20sensitivity%20patterns%20of%20Klebsiella%20pneumoniae%20from%20sputum%20sample%20of%20a%20tertiary%20care%20hospital
+  tags:
+  - amr
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Innovation in agriculture and industrial sectors of Bangladesh through application
+    of biotechnology to achieve SDGs: Opportunities and challenges'
+  authors:
+  - Abu Hashem
+  - MM Hossain
+  - Khanom Binti Simarani
+  - Mohd Rafie Bin Johan
+  publisher: "1st International Conference on Planning and Development, NAPD, Dhaka,\
+    \ 35\u201354"
+  date: '2019-01-01'
+  link: https://scholar.google.com/scholar?q=Innovation%20in%20agriculture%20and%20industrial%20sectors%20of%20Bangladesh%20through%20application%20of%20biotechnology%20to%20achieve%20SDGs%3A%20Opportunities%20and%20challenges
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Innovation%20in%20agriculture%20and%20industrial%20sectors%20of%20Bangladesh%20through%20application%20of%20biotechnology%20to%20achieve%20SDGs%3A%20Opportunities%20and%20challenges
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Microbial Fuel Cell (MFC) application for generation of electricity from
+    dumping rubbish and identification of potential electrogenic bacteria
+  authors:
+  - Titon Chandra Saha
+  - Anica Tasnim Protity
+  - Fatema Tuj Zohora
+  - Modhusudon Shaha
+  - Irfan Ahmed
+  - Eti Barua
+  - P Sarker
+  - SK Mukherjee
+  - Abanti Barua
+  - M Salimullah
+  - et al.
+  publisher: Adv Ind Biotechnol, 2(010)
+  date: '2019-01-01'
+  link: https://scholar.google.com/scholar?q=Microbial%20Fuel%20Cell%20(MFC)%20application%20for%20generation%20of%20electricity%20from%20dumping%20rubbish%20and%20identification%20of%20potential%20electrogenic%20bacteria
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Microbial%20Fuel%20Cell%20(MFC)%20application%20for%20generation%20of%20electricity%20from%20dumping%20rubbish%20and%20identification%20of%20potential%20electrogenic%20bacteria
+  tags:
+  - microbial-fuel-cells
+  plugin: sources.py
+  file: sources.yaml
+- title: Optimization of production and partial characterization of cellulase and
+    protease enzymes from Aeromonas hydrophila ASMS32
+  authors:
+  - Sourav Chakraborty
+  - Ziaul Faruque Joy
+  - Ashequl Haque
+  - Asif Iqbal
+  - Salma Akhter
+  - Palash Kumar Sarker
+  - SM Abu Sayem
+  publisher: Journal of Advanced Biotechnology and Experimental Therapeutics, 2(3),
+    103
+  date: '2019-01-01'
+  link: https://scholar.google.com/scholar?q=Optimization%20of%20production%20and%20partial%20characterization%20of%20cellulase%20and%20protease%20enzymes%20from%20Aeromonas%20hydrophila%20ASMS32
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Optimization%20of%20production%20and%20partial%20characterization%20of%20cellulase%20and%20protease%20enzymes%20from%20Aeromonas%20hydrophila%20ASMS32
+  tags:
+  - microbial-enzymes
+  plugin: sources.py
+  file: sources.yaml
+- title: The effect of different shapes of shear keys at the interface of old and
+    new concretes of jacketed RC column
+  authors:
+  - MR Alam
+  - PK Sarker
+  - M Rahman
+  - SH Himel
+  publisher: 'Mechanics of Structures and Materials XXIV: Proceedings of the 24th
+    Australian Conference on the Mechanics of Structures and Materials (ACMSM24, Perth,
+    Australia, 6-9 December 2016), 109'
+  date: '2019-01-01'
+  link: https://scholar.google.com/scholar?q=The%20effect%20of%20different%20shapes%20of%20shear%20keys%20at%20the%20interface%20of%20old%20and%20new%20concretes%20of%20jacketed%20RC%20column
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=The%20effect%20of%20different%20shapes%20of%20shear%20keys%20at%20the%20interface%20of%20old%20and%20new%20concretes%20of%20jacketed%20RC%20column
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: An immunopharmacoinformatics approach in development of vaccine and drug
+    candidates for West Nile virus
+  authors:
+  - Mohammad Uzzal Hossain
+  - Chaman Ara Keya
+  - Keshob Chandra Das
+  - Abu Hashem
+  - Taimur Md Omar
+  - Md Arif Khan
+  - SM Rakib-Uz-Zaman
+  - Md Salimullah
+  publisher: Frontiers in Chemistry, 6, 246
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=An%20immunopharmacoinformatics%20approach%20in%20development%20of%20vaccine%20and%20drug%20candidates%20for%20West%20Nile%20virus
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=An%20immunopharmacoinformatics%20approach%20in%20development%20of%20vaccine%20and%20drug%20candidates%20for%20West%20Nile%20virus
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Analysis of the complete genome of hepatitis B virus subgenotype C2 isolate
+    NHB17965 from a HBV infected patient
+  authors:
+  - Modhusudon Shaha
+  - Palash Kumar Sarker
+  - Md Saddam Hossain
+  - Keshob Chandra Das
+  - Munira Jahan
+  - Shuvra Kanti Dey
+  - Shahina Tabassum
+  - Abu Hashem
+  - Md Salimullah
+  publisher: F1000Research, 7, 1023
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=Analysis%20of%20the%20complete%20genome%20of%20hepatitis%20B%20virus%20subgenotype%20C2%20isolate%20NHB17965%20from%20a%20HBV%20infected%20patient
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Analysis%20of%20the%20complete%20genome%20of%20hepatitis%20B%20virus%20subgenotype%20C2%20isolate%20NHB17965%20from%20a%20HBV%20infected%20patient
+  tags:
+  - genomics
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Antibiofilm activity of crude cell free extract from Bacillus subtilis S01
+    against E. coli
+  authors:
+  - SMA Sayem
+  - AJMT Chowdhury
+  - MZ Alam
+  - PK Sarker
+  publisher: "Journal of Scientific Research, 10(2), 211\u2013221"
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=Antibiofilm%20activity%20of%20crude%20cell%20free%20extract%20from%20Bacillus%20subtilis%20S01%20against%20E.%20coli
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Antibiofilm%20activity%20of%20crude%20cell%20free%20extract%20from%20Bacillus%20subtilis%20S01%20against%20E.%20coli
+  tags:
+  - drug-discovery
+  plugin: sources.py
+  file: sources.yaml
+- title: Complete genome sequence of a circulating hepatitis B virus genotype C strain
+    isolated from a chronically infected patient identified at an outdoor hospital
+    in Bangladesh
+  authors:
+  - Modhusudon Shaha
+  - Keshob Chandra Das
+  - M Saddam Hossain
+  - Munira Jahan
+  - Abu Hashem
+  - Sabita Rezwana Rahman
+  - M Salimullah
+  publisher: "Genome Announcements, 6(9), e01601\u201317"
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=Complete%20genome%20sequence%20of%20a%20circulating%20hepatitis%20B%20virus%20genotype%20C%20strain%20isolated%20from%20a%20chronically%20infected%20patient%20identified%20at%20an%20outdoor%20hospital%20in%20Bangladesh
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Complete%20genome%20sequence%20of%20a%20circulating%20hepatitis%20B%20virus%20genotype%20C%20strain%20isolated%20from%20a%20chronically%20infected%20patient%20identified%20at%20an%20outdoor%20hospital%20in%20Bangladesh
+  tags:
+  - genomics
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Decline in timber and fuel wood species diversity driven by anthropogenic
+    disturbance: a multivariate approach in Sarban Hills (Abbottabad), Pakistan'
+  authors:
+  - F Ijaz
+  - Z Iqbal
+  - J Alam
+  - R Kausar
+  - I Ur Rahman
+  - A Afzal
+  - N Ali
+  - M Shah
+  - I Ahmed
+  - ES Calixto
+  publisher: "Ukrainian Journal of Ecology, 8(4), 11\u201316"
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=Decline%20in%20timber%20and%20fuel%20wood%20species%20diversity%20driven%20by%20anthropogenic%20disturbance%3A%20a%20multivariate%20approach%20in%20Sarban%20Hills%20(Abbottabad)%2C%20Pakistan
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Decline%20in%20timber%20and%20fuel%20wood%20species%20diversity%20driven%20by%20anthropogenic%20disturbance%3A%20a%20multivariate%20approach%20in%20Sarban%20Hills%20(Abbottabad)%2C%20Pakistan
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Generation of electricity using microbial fuel cell (MFC) from sludge
+  authors:
+  - Eti Barua
+  - Md Saddam Hossain
+  - Modhusudon Shaha
+  - Ekramul Islam
+  - Fatema Tuj Zohora
+  - Anica Tasnim Protity
+  - Sanjoy Kumar Mukharjee
+  - Palash Kumar Sarker
+  - Md Salimullah
+  - Abu Hashem
+  publisher: "Bangladesh J. Microbiol, 35(1), 23\u201326"
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=Generation%20of%20electricity%20using%20microbial%20fuel%20cell%20(MFC)%20from%20sludge
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Generation%20of%20electricity%20using%20microbial%20fuel%20cell%20(MFC)%20from%20sludge
+  tags:
+  - microbial-fuel-cells
+  plugin: sources.py
+  file: sources.yaml
+- title: Host immune responses to the infections caused by the infectious viruses
+  authors:
+  - Modhusudon Shaha
+  - B Roy
+  - T Akter
+  - E Karim
+  - M Rahaman
+  publisher: "Acta Sci Microbiol, 1(6), 13\u20136"
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=Host%20immune%20responses%20to%20the%20infections%20caused%20by%20the%20infectious%20viruses
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Host%20immune%20responses%20to%20the%20infections%20caused%20by%20the%20infectious%20viruses
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Identification of a novel tri-genotypic recombinant Hepatitis B virus in
+    Bangladesh
+  authors:
+  - Modhusudon Shaha
+  - Md Hadisur Rahman
+  - Munira Jahan
+  - Shuvra Kanti Dey
+  - Keshob Chandra Das
+  - Abu Hashem
+  - Md Salimullah
+  publisher: "Virus research, 255, 154\u2013156"
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=Identification%20of%20a%20novel%20tri-genotypic%20recombinant%20Hepatitis%20B%20virus%20in%20Bangladesh
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Identification%20of%20a%20novel%20tri-genotypic%20recombinant%20Hepatitis%20B%20virus%20in%20Bangladesh
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Intragenogroup recombination in the complete genome sequence of human sapovirus
+    circulating in Bangladesh
+  authors:
+  - Shuvra Kanti Dey
+  - Mariya Kibtiya Sumiya
+  - Modhusudon Shaha
+  - Razoanul Haque
+  - Shoko Okitsu
+  - Hiroshi Ushijima
+  publisher: "Genome announcements, 6(18), e00388\u201318"
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=Intragenogroup%20recombination%20in%20the%20complete%20genome%20sequence%20of%20human%20sapovirus%20circulating%20in%20Bangladesh
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Intragenogroup%20recombination%20in%20the%20complete%20genome%20sequence%20of%20human%20sapovirus%20circulating%20in%20Bangladesh
+  tags:
+  - genomics
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Molecular evolution and genomics of hepatitis B virus subgenotype C2 strain
+    predominant in the chronic patients in Bangladesh: M. Shaha et al.'
+  authors:
+  - Modhusudon Shaha
+  - Sourav Chakraborty
+  - Md Saddam Hossain
+  - Abu Hashem
+  - Md Salimullah
+  publisher: "Virusdisease, 29(4), 486\u2013490"
+  date: '2018-01-01'
+  link: https://scholar.google.com/scholar?q=Molecular%20evolution%20and%20genomics%20of%20hepatitis%20B%20virus%20subgenotype%20C2%20strain%20predominant%20in%20the%20chronic%20patients%20in%20Bangladesh%3A%20M.%20Shaha%20et%20al.
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Molecular%20evolution%20and%20genomics%20of%20hepatitis%20B%20virus%20subgenotype%20C2%20strain%20predominant%20in%20the%20chronic%20patients%20in%20Bangladesh%3A%20M.%20Shaha%20et%20al.
+  tags:
+  - genomics
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Production, partial optimization and characterization of keratinase enzyme
+    by Arthrobacter sp. NFH5 isolated from soil samples
+  authors:
+  - Nirmal Chandra Barman
+  - Fatema Tuj Zohora
+  - Keshob Chandra Das
+  - Md Golam Mowla
+  - Nilufa Akhter Banu
+  - Md Salimullah
+  - Abu Hashem
+  publisher: Amb Express, 7(1), 181
+  date: '2017-01-01'
+  link: https://scholar.google.com/scholar?q=Production%2C%20partial%20optimization%20and%20characterization%20of%20keratinase%20enzyme%20by%20Arthrobacter%20sp.%20NFH5%20isolated%20from%20soil%20samples
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Production%2C%20partial%20optimization%20and%20characterization%20of%20keratinase%20enzyme%20by%20Arthrobacter%20sp.%20NFH5%20isolated%20from%20soil%20samples
+  tags:
+  - microbial-enzymes
+  plugin: sources.py
+  file: sources.yaml
+- title: Supply Chain Analysis for the Development of Poultry Feed Industry in Bangladesh
+  authors:
+  - MA Haue
+  - M Akteruzzaman
+  - A Hashem
+  publisher: Journal of the political economy of Bangladesh
+  date: '2017-01-01'
+  link: https://scholar.google.com/scholar?q=Supply%20Chain%20Analysis%20for%20the%20Development%20of%20Poultry%20Feed%20Industry%20in%20Bangladesh
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Supply%20Chain%20Analysis%20for%20the%20Development%20of%20Poultry%20Feed%20Industry%20in%20Bangladesh
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: "The importance of improved cooking stove for forest conservation, economic\
+    \ benefits and climate change mitigation\u2014A Bangladesh case study"
+  authors:
+  - Bishwajit Roy
+  - Md Habibur Rahman
+  - Palash Sarker
+  publisher: "International Congress on Engineering and Sustainability in the XXI\
+    \ Century, 84\u2013102"
+  date: '2017-01-01'
+  link: https://scholar.google.com/scholar?q=The%20importance%20of%20improved%20cooking%20stove%20for%20forest%20conservation%2C%20economic%20benefits%20and%20climate%20change%20mitigation%E2%80%94A%20Bangladesh%20case%20study
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=The%20importance%20of%20improved%20cooking%20stove%20for%20forest%20conservation%2C%20economic%20benefits%20and%20climate%20change%20mitigation%E2%80%94A%20Bangladesh%20case%20study
+  tags:
+  - book-chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Finding potential drug targets against Shigella flexneri through druggable
+    proteome exploration.
+  authors:
+  - Mohammad Uzzal Hossain
+  - Md Arif Khan
+  - Abu Hashem
+  - Md Monirul Islam
+  - Mohammad Neaz Morshed
+  - Chaman Ara Keya
+  - Md Salimullah
+  publisher: Frontiers in Microbiology, 7
+  date: '2016-01-01'
+  link: https://scholar.google.com/scholar?q=Finding%20potential%20drug%20targets%20against%20Shigella%20flexneri%20through%20druggable%20proteome%20exploration.
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Finding%20potential%20drug%20targets%20against%20Shigella%20flexneri%20through%20druggable%20proteome%20exploration.
+  tags:
+  - amr
+  - drug-discovery
+  plugin: sources.py
+  file: sources.yaml
+- title: Molecular epidemiology of hepatitis B virus isolated from Bangladesh
+  authors:
+  - Modhusudon Shaha
+  - Sheikh Ariful Hoque
+  - Sabita Rezwana Rahman
+  publisher: SpringerPlus, 5(1), 1513
+  date: '2016-01-01'
+  link: https://scholar.google.com/scholar?q=Molecular%20epidemiology%20of%20hepatitis%20B%20virus%20isolated%20from%20Bangladesh
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Molecular%20epidemiology%20of%20hepatitis%20B%20virus%20isolated%20from%20Bangladesh
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Prevalence, antibiotic susceptibility profiles and ESBL production in Klebsiella
+    pneumoniae and Klebsiella oxytoca among hospitalized patients
+  authors:
+  - Sourav Chakraborty
+  - Kaniz Mohsina
+  - Palash Kumar Sarker
+  - Md Zahangir Alam
+  - M Ismail Abdul Karim
+  - SM Abu Sayem
+  publisher: Periodicum biologorum, 118(1)
+  date: '2016-01-01'
+  link: https://scholar.google.com/scholar?q=Prevalence%2C%20antibiotic%20susceptibility%20profiles%20and%20ESBL%20production%20in%20Klebsiella%20pneumoniae%20and%20Klebsiella%20oxytoca%20among%20hospitalized%20patients
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Prevalence%2C%20antibiotic%20susceptibility%20profiles%20and%20ESBL%20production%20in%20Klebsiella%20pneumoniae%20and%20Klebsiella%20oxytoca%20among%20hospitalized%20patients
+  tags:
+  - amr
+  plugin: sources.py
+  file: sources.yaml
+- title: Quality Assessment of Industrial Effluent in chittagong Industrial Area,
+    Bangladesh
+  authors:
+  - S Akter
+  - FT Jahara
+  - M Jibon
+  - A Halim
+  - A Hashem
+  publisher: "Proc. of 3rd International Conference on Advances in Civil Engineering,\
+    \ CUET, Chittagong, Bangladesh, 21\u201323"
+  date: '2016-01-01'
+  link: https://scholar.google.com/scholar?q=Quality%20Assessment%20of%20Industrial%20Effluent%20in%20chittagong%20Industrial%20Area%2C%20Bangladesh
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Quality%20Assessment%20of%20Industrial%20Effluent%20in%20chittagong%20Industrial%20Area%2C%20Bangladesh
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Therapeutics insight with inclusive immunopharmacology explication of human
+    rotavirus a for the treatment of diarrhea
+  authors:
+  - Mohammad Uzzal Hossain
+  - Abu Hashem
+  - Chaman Ara Keya
+  - Md Salimullah
+  publisher: Frontiers in pharmacology, 7, 153
+  date: '2016-01-01'
+  link: https://scholar.google.com/scholar?q=Therapeutics%20insight%20with%20inclusive%20immunopharmacology%20explication%20of%20human%20rotavirus%20a%20for%20the%20treatment%20of%20diarrhea
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Therapeutics%20insight%20with%20inclusive%20immunopharmacology%20explication%20of%20human%20rotavirus%20a%20for%20the%20treatment%20of%20diarrhea
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: Effects of risk factors on anti-HBs development in hepatitis B vaccinated
+    and nonvaccinated populations
+  authors:
+  - Modhusudon Shaha
+  - Sheikh Ariful Hoque
+  - Mohammad Firoz Ahmed
+  - Sabita Rezwana Rahman
+  publisher: "Viral immunology, 28(4), 217\u2013221"
+  date: '2015-01-01'
+  link: https://scholar.google.com/scholar?q=Effects%20of%20risk%20factors%20on%20anti-HBs%20development%20in%20hepatitis%20B%20vaccinated%20and%20nonvaccinated%20populations
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Effects%20of%20risk%20factors%20on%20anti-HBs%20development%20in%20hepatitis%20B%20vaccinated%20and%20nonvaccinated%20populations
+  tags:
+  - virology
+  plugin: sources.py
+  file: sources.yaml
+- title: In vitro clonal propagation of BARI Ada-1 (Zingiber officinale Rosc.)
+  authors:
+  - S Yesmin
+  - A Hashem
+  - MM Khatun
+  - S Nasrin
+  - T Tanny
+  - MS Islam
+  publisher: "Jahangirnagar University Journal of Biological Sciences, 4(2), 53\u2013\
+    57"
+  date: '2015-01-01'
+  link: https://scholar.google.com/scholar?q=In%20vitro%20clonal%20propagation%20of%20BARI%20Ada-1%20(Zingiber%20officinale%20Rosc.)
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=In%20vitro%20clonal%20propagation%20of%20BARI%20Ada-1%20(Zingiber%20officinale%20Rosc.)
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Isolation, purification and characterization of an extracellular protease
+    from a locally isolated Bacillus sphaericus SI-1
+  authors:
+  - Abu Hashem
+  - Sabina Yesmin
+  - Md Kamruzzaman Pramanik
+  - Md Saidul Islam
+  - Khandaker Abdur Rahim
+  - Md Salimullah
+  - Mustafizur Rahman
+  publisher: "Bioresearch Communications-(BRC), 1(2), 87\u201392"
+  date: '2015-01-01'
+  link: https://scholar.google.com/scholar?q=Isolation%2C%20purification%20and%20characterization%20of%20an%20extracellular%20protease%20from%20a%20locally%20isolated%20Bacillus%20sphaericus%20SI-1
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Isolation%2C%20purification%20and%20characterization%20of%20an%20extracellular%20protease%20from%20a%20locally%20isolated%20Bacillus%20sphaericus%20SI-1
+  tags:
+  - microbial-enzymes
+  plugin: sources.py
+  file: sources.yaml
+- title: Micropropagation of an important medicinal herb Eclipta alba (L.) Hassk.
+  authors:
+  - S Yesmin
+  - A Hashem
+  - MS Islam
+  publisher: "Jahangirnagar University Journal of Biological Sciences, 4(1), 61\u2013\
+    69"
+  date: '2015-01-01'
+  link: https://scholar.google.com/scholar?q=Micropropagation%20of%20an%20important%20medicinal%20herb%20Eclipta%20alba%20(L.)%20Hassk.
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Micropropagation%20of%20an%20important%20medicinal%20herb%20Eclipta%20alba%20(L.)%20Hassk.
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Minimum free energy based evaluation of mRNAs secondary structures constructed
+    by 18 clinically significant exonic single nucleotide polymorphisms (SNPs) and
+    haplotypes of 5 missense SNPs of RB1 gene
+  authors:
+  - Sarder Nasir Uddin
+  - Apurba Majumder
+  - Khandker Khaldun Islam
+  - Sk Amir Hossain
+  - Palash Kumar Sarker
+  publisher: American Journal of Biochemistry & Biotechnology, 11(4), 191
+  date: '2015-01-01'
+  link: https://scholar.google.com/scholar?q=Minimum%20free%20energy%20based%20evaluation%20of%20mRNAs%20secondary%20structures%20constructed%20by%2018%20clinically%20significant%20exonic%20single%20nucleotide%20polymorphisms%20(SNPs)%20and%20haplotypes%20of%205%20missense%20SNPs%20of%20RB1%20gene
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Minimum%20free%20energy%20based%20evaluation%20of%20mRNAs%20secondary%20structures%20constructed%20by%2018%20clinically%20significant%20exonic%20single%20nucleotide%20polymorphisms%20(SNPs)%20and%20haplotypes%20of%205%20missense%20SNPs%20of%20RB1%20gene
+  tags:
+  - genomics
+  plugin: sources.py
+  file: sources.yaml
+- title: Molecular identification of a newly isolated Bacillus subtilis BI19 and optimization
+    of production conditions for enhanced production of extracellular amylase
+  authors:
+  - Biplab Kumar Dash
+  - M Mizanur Rahman
+  - Palash Kumar Sarker
+  publisher: BioMed Research International, 2015(1), 859805
+  date: '2015-01-01'
+  link: https://scholar.google.com/scholar?q=Molecular%20identification%20of%20a%20newly%20isolated%20Bacillus%20subtilis%20BI19%20and%20optimization%20of%20production%20conditions%20for%20enhanced%20production%20of%20extracellular%20amylase
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Molecular%20identification%20of%20a%20newly%20isolated%20Bacillus%20subtilis%20BI19%20and%20optimization%20of%20production%20conditions%20for%20enhanced%20production%20of%20extracellular%20amylase
+  tags:
+  - microbial-enzymes
+  plugin: sources.py
+  file: sources.yaml
+- title: Agrobacterium-mediated transformation of eggplant (Solanum melongena L.)
+    using cotyledon explants
+  authors:
+  - S Yesmin
+  - RH Sarker
+  - MI Hoque
+  - A Hashem
+  - MS Islam
+  publisher: "Nuclear Science and Applications, 23, 41\u201346"
+  date: '2014-01-01'
+  link: https://scholar.google.com/scholar?q=Agrobacterium-mediated%20transformation%20of%20eggplant%20(Solanum%20melongena%20L.)%20using%20cotyledon%20explants
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Agrobacterium-mediated%20transformation%20of%20eggplant%20(Solanum%20melongena%20L.)%20using%20cotyledon%20explants
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Efficient in vitro regeneration of chrysanthemum (Chrysanthemum morifolium
+    Ramat.) through nodal explant culture
+  authors:
+  - S Yesmin
+  - A Hashem
+  - KC Das
+  - MM Hasan
+  - MS Islam
+  publisher: "Nuclear science and applications, 23(1&2), 47\u201350"
+  date: '2014-01-01'
+  link: https://scholar.google.com/scholar?q=Efficient%20in%20vitro%20regeneration%20of%20chrysanthemum%20(Chrysanthemum%20morifolium%20Ramat.)%20through%20nodal%20explant%20culture
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Efficient%20in%20vitro%20regeneration%20of%20chrysanthemum%20(Chrysanthemum%20morifolium%20Ramat.)%20through%20nodal%20explant%20culture
+  tags:
+  - biotechnology
+  plugin: sources.py
+  file: sources.yaml
+- title: Optimization and partial characterization of culture conditions for the production
+    of alkaline protease from Bacillus licheniformis P003
+  authors:
+  - Palash Kumar Sarker
+  - Saimon Ahmad Talukdar
+  - Promita Deb
+  - SM Abu Sayem
+  - Kaniz Mohsina
+  publisher: Springerplus, 2(1), 506
+  date: '2013-01-01'
+  link: https://scholar.google.com/scholar?q=Optimization%20and%20partial%20characterization%20of%20culture%20conditions%20for%20the%20production%20of%20alkaline%20protease%20from%20Bacillus%20licheniformis%20P003
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Optimization%20and%20partial%20characterization%20of%20culture%20conditions%20for%20the%20production%20of%20alkaline%20protease%20from%20Bacillus%20licheniformis%20P003
+  tags:
+  - microbial-enzymes
+  plugin: sources.py
+  file: sources.yaml
+- title: Production and partial characterization of extracellular amylase enzyme from
+    Bacillus amyloliquefaciens P-001
+  authors:
+  - Promita Deb
+  - Saimon Ahmad Talukdar
+  - Kaniz Mohsina
+  - Palash Kumar Sarker
+  - SM Abu Sayem
+  publisher: SpringerPlus, 2(1), 154
+  date: '2013-01-01'
+  link: https://scholar.google.com/scholar?q=Production%20and%20partial%20characterization%20of%20extracellular%20amylase%20enzyme%20from%20Bacillus%20amyloliquefaciens%20P-001
+  type: paper
+  buttons:
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Production%20and%20partial%20characterization%20of%20extracellular%20amylase%20enzyme%20from%20Bacillus%20amyloliquefaciens%20P-001
+  tags:
+  - microbial-enzymes
+  plugin: sources.py
+  file: sources.yaml
