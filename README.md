@@ -1,3 +1,5 @@
+Visit **[shmbd.github.io/lab-temp](https://shmbd.github.io/lab-temp)** 🚀
+
 # Microbial Biotechnology Division · NIB Bangladesh Website
 
 Official laboratory website repository for the **Microbial Biotechnology Division (MBD)** at the **National Institute of Biotechnology (NIB)**, Savar, Dhaka-1349, Bangladesh, built on the [Greene Lab Website Template (`greenelab/lab-website-template`)](https://github.com/greenelab/lab-website-template).
