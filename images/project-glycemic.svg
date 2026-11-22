@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#0b252d"/>
+  <circle cx="300" cy="195" r="132" fill="none" stroke="#2dd4bf" stroke-opacity="0.7" stroke-width="5" stroke-dasharray="48 16 24 14 62 18" stroke-linecap="round"/>
+  <circle cx="300" cy="195" r="102" fill="none" stroke="#fbbf24" stroke-opacity="0.75" stroke-width="4" stroke-dasharray="28 22 40 18"/>
+  <circle cx="300" cy="195" r="74" fill="none" stroke="#99f6e4" stroke-opacity="0.4" stroke-width="2" stroke-dasharray="10 8"/>
+  <g transform="translate(300 195) rotate(-25)">
+    <rect x="-46" y="-19" width="92" height="38" rx="19" fill="#14b8a6" fill-opacity="0.35" stroke="#ccfbf1" stroke-width="2"/>
+    <ellipse cx="-4" cy="0" rx="18" ry="8" fill="#0f7b72" stroke="#99f6e4" stroke-width="1.2"/>
+  </g>
+  <text x="300" y="366" text-anchor="middle" font-family="Roboto Mono, monospace" font-size="12.5" fill="#ccfbf1">MBD-SRP-01 · 4 ISOLATES · COMPARATIVE GENOMICS</text>
+</svg>

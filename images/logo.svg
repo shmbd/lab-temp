@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-46 -56 92 104">
+  <style>
+    .spore {
+      animation: drift 2.6s ease-out both infinite var(--delay);
+    }
+    @keyframes drift {
+      0% {
+        opacity: 0;
+        transform: translateY(0) scale(0.8);
+      }
+      45% {
+        opacity: 0.85;
+      }
+      100% {
+        opacity: 0;
+        transform: translateY(-28px) scale(1.1);
+      }
+    }
+  </style>
+  <!-- Floating metabolic vesicles -->
+  <g fill="#5eead4">
+    <circle class="spore" cx="-10" cy="-22" r="2.8" style="--delay: 0.1s" />
+    <circle class="spore" cx="12" cy="-24" r="2.4" style="--delay: 0.8s" />
+    <circle class="spore" cx="2" cy="-28" r="3.1" style="--delay: 1.5s" />
+  </g>
+  <!-- Circular bacterial pangenome track -->
+  <circle cx="0" cy="-2" r="36" fill="none" stroke="currentColor" stroke-opacity="0.28" stroke-width="2.4" stroke-dasharray="10 6 4 6" />
+  <circle cx="0" cy="-2" r="30" fill="none" stroke="#2dd4bf" stroke-opacity="0.7" stroke-width="2.6" stroke-dasharray="28 14 12 18" stroke-linecap="round" />
+  <!-- Encapsulated bacillus cell -->
+  <g transform="translate(0 -2) rotate(-32)">
+    <rect x="-25" y="-13" width="50" height="26" rx="13" fill="#99f6e4" stroke="currentColor" stroke-width="3.2" />
+    <ellipse cx="-3" cy="0" rx="10.5" ry="5.5" fill="#0f7b72" />
+    <circle cx="13" cy="-2.5" r="2.6" fill="#0f7b72" />
+    <circle cx="-16" cy="2" r="1.8" fill="#0f7b72" opacity="0.75" />
+  </g>
+</svg>

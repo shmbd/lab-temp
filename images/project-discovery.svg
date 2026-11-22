@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#0b242c"/>
+  <!-- Hexagonal natural-product scaffold + BGC arrows -->
+  <g transform="translate(300 165)" stroke="#5eead4" stroke-width="2.5" fill="#0f7b72" fill-opacity="0.32">
+    <polygon points="0,-62 54,-31 54,31 0,62 -54,31 -54,-31"/>
+    <polygon points="88,-31 142,0 142,62 88,93 34,62 34,0" stroke="#fbbf24" fill="#fbbf24" fill-opacity="0.14"/>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#ccfbf1" stroke-dasharray="6 5"/>
+  </g>
+  <g transform="translate(110 295)">
+    <polygon points="0,8 65,8 65,0 85,16 65,32 65,24 0,24" fill="#2dd4bf"/>
+    <polygon points="95,8 175,8 175,0 195,16 175,32 175,24 95,24" fill="#fbbf24"/>
+    <polygon points="205,8 270,8 270,0 290,16 270,32 270,24 205,24" fill="#5eead4"/>
+    <polygon points="300,8 360,8 360,0 380,16 360,32 360,24 300,24" fill="#99f6e4"/>
+  </g>
+  <text x="300" y="366" text-anchor="middle" font-family="Roboto Mono, monospace" font-size="12.5" fill="#ccfbf1">MBD-RF-02 · BGC MINING &amp; SECONDARY METABOLITES</text>
+</svg>

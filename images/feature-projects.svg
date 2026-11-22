@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="projBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b262e"/>
+      <stop offset="100%" stop-color="#115e59"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#projBg)"/>
+  <!-- Comparative genome alignment tracks -->
+  <g transform="translate(60 72)">
+    <rect x="0" y="0" width="480" height="44" rx="8" fill="#081d24" stroke="#2dd4bf" stroke-opacity="0.45"/>
+    <rect x="18" y="14" width="90" height="16" rx="8" fill="#2dd4bf"/>
+    <rect x="124" y="14" width="64" height="16" rx="8" fill="#5eead4" fill-opacity="0.75"/>
+    <rect x="206" y="14" width="118" height="16" rx="8" fill="#fbbf24" fill-opacity="0.85"/>
+    <rect x="342" y="14" width="112" height="16" rx="8" fill="#2dd4bf" fill-opacity="0.65"/>
+
+    <rect x="0" y="68" width="480" height="44" rx="8" fill="#081d24" stroke="#2dd4bf" stroke-opacity="0.45"/>
+    <rect x="18" y="82" width="84" height="16" rx="8" fill="#2dd4bf"/>
+    <rect x="120" y="82" width="72" height="16" rx="8" fill="#5eead4" fill-opacity="0.75"/>
+    <rect x="210" y="82" width="114" height="16" rx="8" fill="#fbbf24" fill-opacity="0.85"/>
+    <rect x="342" y="82" width="96" height="16" rx="8" fill="#99f6e4" fill-opacity="0.65"/>
+
+    <rect x="0" y="136" width="480" height="44" rx="8" fill="#081d24" stroke="#2dd4bf" stroke-opacity="0.45"/>
+    <rect x="18" y="150" width="94" height="16" rx="8" fill="#2dd4bf"/>
+    <rect x="130" y="150" width="58" height="16" rx="8" fill="#5eead4" fill-opacity="0.75"/>
+    <rect x="206" y="150" width="122" height="16" rx="8" fill="#fbbf24" fill-opacity="0.85"/>
+    <rect x="348" y="150" width="108" height="16" rx="8" fill="#2dd4bf" fill-opacity="0.65"/>
+
+    <rect x="0" y="204" width="480" height="44" rx="8" fill="#081d24" stroke="#2dd4bf" stroke-opacity="0.45"/>
+    <rect x="18" y="218" width="88" height="16" rx="8" fill="#2dd4bf"/>
+    <rect x="124" y="218" width="66" height="16" rx="8" fill="#5eead4" fill-opacity="0.75"/>
+    <rect x="208" y="218" width="116" height="16" rx="8" fill="#fbbf24" fill-opacity="0.85"/>
+    <rect x="344" y="218" width="102" height="16" rx="8" fill="#99f6e4" fill-opacity="0.65"/>
+  </g>
+  <g font-family="Roboto Mono, monospace" font-size="12" fill="#ccfbf1">
+    <text x="60" y="50">SHARED RESEARCH PLAN · 4 CANDIDATE PROBIOTIC GENOMES</text>
+    <text x="60" y="356">CAZyme · Safety &amp; Resistome · Glycemic-Health Potential</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="bgRA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b2e36"/>
+      <stop offset="100%" stop-color="#115e59"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" fill="url(#bgRA)"/>
+  <circle cx="120" cy="120" r="96" fill="none" stroke="#99f6e4" stroke-opacity="0.28" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="120" y="138" text-anchor="middle" font-family="Barlow, Arial, sans-serif" font-size="68" font-weight="600" fill="#f0fdfa" letter-spacing="3">RA</text>
+</svg>
