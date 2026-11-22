@@ -1,0 +1,6 @@
+# Optional automatic ORCID imports for _cite/cite.py
+# All 85 curated division works are already listed in _data/sources.yaml.
+# Uncomment below to auto-fetch newly indexed ORCID works on scheduled runs:
+# - orcid: 0000-0002-0033-7346  # Abu Hashem, PhD
+# - orcid: 0000-0001-7735-9888  # Md. Saddam Hossain
+[]

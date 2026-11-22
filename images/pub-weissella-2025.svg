@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360">
+  <rect width="360" height="360" fill="#092229"/>
+  <circle cx="180" cy="168" r="106" fill="none" stroke="#2dd4bf" stroke-width="6" stroke-dasharray="44 14 26 16 54 18" stroke-linecap="round"/>
+  <circle cx="180" cy="168" r="78" fill="none" stroke="#99f6e4" stroke-width="3" stroke-dasharray="22 12"/>
+  <circle cx="180" cy="168" r="52" fill="#0f7b72" fill-opacity="0.35" stroke="#5eead4" stroke-width="2"/>
+  <text x="180" y="173" text-anchor="middle" font-family="Barlow, sans-serif" font-size="16" font-weight="600" fill="#f0fdfa">Pangenome</text>
+  <text x="180" y="324" text-anchor="middle" font-family="Roboto Mono, monospace" font-size="14" fill="#ccfbf1">W. CONFUSA · 2025</text>
+</svg>

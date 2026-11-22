@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#0b262d"/>
+  <!-- Microbial Fuel Cell Anode/PEM/Cathode schematic -->
+  <rect x="120" y="90" width="145" height="190" rx="12" fill="#081c22" stroke="#2dd4bf" stroke-width="2"/>
+  <rect x="335" y="90" width="145" height="190" rx="12" fill="#081c22" stroke="#5eead4" stroke-width="2"/>
+  <line x1="300" y1="82" x2="300" y2="288" stroke="#fbbf24" stroke-width="4" stroke-dasharray="10 6"/>
+  <path d="M192 90 V54 H408 V90" fill="none" stroke="#99f6e4" stroke-width="2.5"/>
+  <circle cx="300" cy="54" r="18" fill="#0f7b72" stroke="#fde68a" stroke-width="2"/>
+  <path d="M303 44 L294 56 H302 L297 66 L307 53 H299 Z" fill="#fde68a"/>
+  <text x="192" y="192" text-anchor="middle" font-family="Barlow, sans-serif" font-size="15" font-weight="600" fill="#99f6e4">Biocatalysts</text>
+  <text x="408" y="192" text-anchor="middle" font-family="Barlow, sans-serif" font-size="15" font-weight="600" fill="#99f6e4">Bioenergy</text>
+  <text x="300" y="356" text-anchor="middle" font-family="Roboto Mono, monospace" font-size="12.5" fill="#ccfbf1">MBD-RF-03 · INDUSTRIAL ENZYMES &amp; FUEL CELLS</text>
+</svg>

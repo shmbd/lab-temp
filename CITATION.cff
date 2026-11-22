@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Microbial Biotechnology Division Website (MBD · NIB Bangladesh)
+message: Official website repository for the Microbial Biotechnology Division at the National Institute of Biotechnology, Bangladesh, built with the Greene Lab Website Template.
+type: software
+authors:
+  - given-names: Abu
+    family-names: Hashem
+    orcid: 'https://orcid.org/0000-0002-0033-7346'
+    affiliation: National Institute of Biotechnology, Bangladesh
+  - given-names: Palash Kumar
+    family-names: Sarker
+    affiliation: National Institute of Biotechnology, Bangladesh
+  - given-names: Md. Saddam
+    family-names: Hossain
+    orcid: 'https://orcid.org/0000-0001-7735-9888'
+    affiliation: National Institute of Biotechnology, Bangladesh
+url: 'https://mbd-nib.netlify.app/'
+license: BSD-3-Clause

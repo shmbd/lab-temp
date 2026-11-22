@@ -1,0 +1,44 @@
+- title: Functional and Comparative Genome Analysis of Probiotic Bacteria with Glycemic Health-Promoting Potential
+  subtitle: Shared Research Plan · MBD-SRP-01
+  group: featured
+  image: images/project-glycemic.svg
+  link: research/?search=probiotic
+  description: Coordinated genome-focused evaluation of four candidate probiotic bacterial isolates from indigenous sources—integrating whole-genome assembly, safety and resistome screening, carbohydrate-active enzyme (CAZyme) profiling, and comparative genomic analysis to prioritize strains with glycemic health-promoting potential.
+  tags:
+    - comparative-genomics
+    - glycemic-health
+    - probiotics
+    - safety-and-resistome
+
+- title: Probiotics for Human Health
+  subtitle: Research Focus · MBD-RF-01
+  group: track
+  image: images/project-probiotics.svg
+  link: research/?search=Weissella
+  description: Isolation, taxonomic identification, and multi-trait functional characterization of beneficial lactic acid and dairy-associated microbial strains, pairing _in vitro_ gastrointestinal resilience assays with pangenome-informed evaluation.
+  tags:
+    - probiotics
+    - functional-screening
+    - comparative-genomics
+
+- title: Microbial Natural-Product Discovery
+  subtitle: Research Focus · MBD-RF-02
+  group: track
+  image: images/project-discovery.svg
+  link: 'research/?search="tag: drug-discovery"'
+  description: Investigation of antibacterial microbial isolates, bioactive secondary metabolites, and biosynthetic gene clusters (BGCs) across environmental actinomycetes, myxobacteria, and pseudomonads to guide natural-product discovery and experimental validation.
+  tags:
+    - genome-mining
+    - bioactive-metabolites
+    - bgc-analysis
+
+- title: Microbial Enzymes and Bioenergy
+  subtitle: Research Focus · MBD-RF-03
+  group: track
+  image: images/project-enzymes.svg
+  link: 'research/?search="tag: microbial-fuel-cells"'
+  description: Optimization of extracellular proteases, keratinases, amylases, and cellulases for leather and industrial bioprocessing alongside electrogenic bacterial consortia in microbial fuel cells (MFCs) for waste-to-energy conversion.
+  tags:
+    - microbial-enzymes
+    - microbial-fuel-cells
+    - bioprocessing
