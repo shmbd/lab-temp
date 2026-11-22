@@ -1,5 +1,1023 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.microb.2025.100562
+  title: A Comprehensive Pangenome Approach to Exploring the Probiotic Potential of
+    Weissella Confusa
+  authors:
+  - Md Saddam Hossain
+  - Shanjana Rahman Tuli
+  - Nigar Fatima
+  - Sobur Ali
+  - Shovan Basak Moon
+  - Abu Hashem
+  publisher: The Microbe, 100562
+  date: '2025-01-01'
+  link: https://doi.org/10.1016/j.microb.2025.100562
+  orcid: 0000-0001-7735-9888
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/pub-weissella-2025.svg
+  description: Comparative pangenome-scale analysis mapping core and accessory probiotic
+    traits, carbohydrate-active enzymes, and safety determinants across Weissella
+    confusa.
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1016/j.microb.2025.100562
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=A%20Comprehensive%20Pangenome%20Approach%20to%20Exploring%20the%20Probiotic%20Potential%20of%20Weissella%20Confusa
+  tags:
+  - probiotics
+  - genomics
+- id: doi:10.71193/jcid.20250004
+  title: "Anticancer Activity of Allium cepa through the Inactivation of NF-\u03BA\
+    B Pathway: A Literature-based Study"
+  authors:
+  - Sharmita Ghosh Situ
+  - Md. Sakib Al Hasan
+  - Emon Mia
+  - Md. Nasimul Haque Shipon
+  - Md Faisal Amin
+  - Asmaul Husna Bristy
+  - Yasin Emon
+  publisher: Journal of Chemistry Insights and Discoveries
+  date: '2025-04-05'
+  link: https://doi.org/hctn8g
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.71193/jcid.20250002
+  title: 'Antioxidant activity of promising probiotic potential Lactobacillus plantarum:
+    a review'
+  authors:
+  - Jannatul Ferdous
+  - Raihan Chowdhury
+  - Md Sarafat Ali
+  - Abu Hashem
+  publisher: "Journal of Chemistry Insights and Discoveries, 1(01), 1\u20136"
+  date: '2025-01-01'
+  link: https://doi.org/10.71193/jcid.20250002
+  orcid: 0000-0002-0033-7346
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.71193/jcid.20250002
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Antioxidant%20activity%20of%20promising%20probiotic%20potential%20Lactobacillus%20plantarum%3A%20a%20review
+  tags:
+  - probiotics
+- id: doi:10.1007/s11756-025-01866-y
+  title: 'Exploration of the metabolic potential of the Corallococcus genus: a rich
+    source of secondary metabolites and CAZymes'
+  authors:
+  - Md Saddam Hossain
+  - Shanjana Rahman Tuli
+  - Nigar Fatima
+  - Md Tauhidul Islam Tanim
+  - Abu Hashem
+  publisher: "Biologia, 80(3), 685\u2013696"
+  date: '2025-01-01'
+  link: https://doi.org/10.1007/s11756-025-01866-y
+  orcid: 0000-0002-0033-7346
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/pub-corallococcus-2025.svg
+  description: Genome-wide biosynthetic gene cluster (BGC) and CAZyme repertoire mining
+    across myxobacterial Corallococcus genomes for natural-product discovery.
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1007/s11756-025-01866-y
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Exploration%20of%20the%20metabolic%20potential%20of%20the%20Corallococcus%20genus%3A%20a%20rich%20source%20of%20secondary%20metabolites%20and%20CAZymes
+  tags:
+  - drug-discovery
+- id: doi:10.1016/j.gene.2024.148965
+  title: 'From sequence to significance: A thorough investigation of the distinctive
+    genome features uncovered in C. Werkmanii strain NIB003'
+  authors:
+  - Mohammad Uzzal Hossain
+  - Neyamat Khan Tanvir
+  - A.B.Z. Naimur Rahman
+  - Zeshan Mahmud Chowdhury
+  - Md. Shahadat Hossain
+  - Shajib Dey
+  - Arittra Bhattacharjee
+  - Ishtiaque Ahammad
+  - Umme Salma Zohora
+  - Abu Hashem
+  - Keshob Chandra Das
+  - Chaman Ara Keya
+  - Md. Salimullah
+  publisher: Gene
+  date: '2025-01-01'
+  link: https://doi.org/hctn8h
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neulet.2024.138007
+  title: "Phytol exerts sedative-like effects and modulates the diazepam and flumazenil\u2019\
+    s action, possibly through the GABAA receptor interaction pathway"
+  authors:
+  - Md Torequl Islam
+  - Jannatul Ferdous
+  - Md Sakib Al Hasan
+  - Abu Hashem
+  - Mehedi Hasan Bappi
+  - Siddique Akber Ansari
+  - Md Amirul Islam
+  - Md Saifuzzaman
+  publisher: Neuroscience Letters, 842, 138007
+  date: '2024-01-01'
+  link: https://doi.org/10.1016/j.neulet.2024.138007
+  orcid: 0000-0002-0033-7346
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1016/j.neulet.2024.138007
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Phytol%20exerts%20sedative-like%20effects%20and%20modulates%20the%20diazepam%20and%20flumazenil%E2%80%99s%20action%2C%20possibly%20through%20the%20GABAA%20receptor%20interaction%20pathway
+  tags:
+  - drug-discovery
+- id: doi:10.1101/2024.10.08.616840
+  title: 'Exploration of the Metabolic Potential of the Corallococcus Genus: A Rich
+    Source of Secondary Metabolites, and CAZymes'
+  authors:
+  - Md. Saddam Hossain
+  - Shanjana Rahman Tuli
+  - Nigar Fatima
+  - Md. Tauhidul Islam Tanim
+  - Abu Hashem
+  publisher: openRxiv
+  date: '2024-10-11'
+  link: https://doi.org/hbpkfm
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.10.06.616837
+  title: "A Comprehensive Pangenome Approach to Exploring the Probiotic Potential\
+    \ of\n                  <i>Weissella Confusa</i>"
+  authors:
+  - Md. Saddam Hossain
+  - Shanjana Rahman Tuli
+  - Nigar Fatima
+  - Sobur Ali
+  - Shovan Basak Moon
+  - Abu Hashem
+  publisher: openRxiv
+  date: '2024-10-08'
+  link: https://doi.org/hbpkfk
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/rsm59033.2023.10327172
+  title: Determination of the Aptamer Probe Density by Double Layer and Redox Capacitance
+    of CNT-Based Electrochemical DNA-Aptasensors
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - M. A. Motalib Hossain
+  - Abu Hashem
+  - Mohd Rafie Johan
+  - Nurul Ezaila Alias
+  - Hanim Hussin
+  - Maizan Muhamad
+  publisher: 2023 IEEE Regional Symposium on Micro and Nanoelectronics (RSM)
+  date: '2023-08-28'
+  link: https://doi.org/hctn8j
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22452/mnij.vol3no1.1
+  title: 'Nanocellulose-based carbon nanocomposite for the electrochemical sensing
+    application for pharmaceuticals: A review'
+  authors:
+  - Md Shalauddin
+  - Wan Jeffrey Basirun
+  - Akhter Shamima
+  - Abu Hashem
+  - Marlinda Ab Rahman
+  publisher: Malaysian NANO-An International Journal
+  date: '2023-07-03'
+  link: https://doi.org/hctn8k
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1149/1945-7111/ace7f8
+  title: Differential Pulse Voltammetric Tuning of the Screen-Printed Carbon Electrode
+    Surface to Enhance the Electrochemical Performance and Multiplex Detection
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - M. A. Motalib Hossain
+  - Abu Hashem
+  - Nor Aliya Hamizi
+  - Zaira Zaman Chowdhury
+  - Sharifah Fatmadiana Wan Muhamad Hattad
+  - Irfan Anjum Badruddin
+  - Sarfaraz Kamangar
+  - Mohd Rafie Johan
+  publisher: Journal of The Electrochemical Society
+  date: '2023-07-01'
+  link: https://doi.org/hctn8m
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12678-022-00779-7
+  title: A Unique Oligonucleotide Probe Hybrid on Graphene Decorated Gold Nanoparticles
+    Modified Screen-Printed Carbon Electrode for Pork Meat Adulteration
+  authors:
+  - Abu Hashem
+  - Ab Rahman Marlinda
+  - M. A. Motalib Hossain
+  - Mohammad Al Mamun
+  - Md. Shalauddin
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  publisher: Electrocatalysis
+  date: '2022-10-21'
+  link: https://doi.org/hctn8n
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1201/9781003263852-11
+  title: "DNA-Aptamer\u2013Based Electrochemical Biosensors for the Detection of Thrombin"
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - M. A. Motalib Hossain
+  - Abu Hashem
+  - Mohd Rafie Johan
+  publisher: Functional Nanomaterials for Sensors
+  date: '2023-02-24'
+  link: https://doi.org/hctn8p
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/lubricants11010029
+  title: Graphene as a Lubricant Additive for Reducing Friction and Wear in Its Liquid-Based
+    Form
+  authors:
+  - Ab Rahman Marlinda
+  - Gregory Soon How Thien
+  - Mehmood Shahid
+  - Ting Yang Ling
+  - Abu Hashem
+  - Kah-Yoong Chan
+  - Mohd Rafie Johan
+  publisher: Lubricants
+  date: '2023-01-11'
+  link: https://doi.org/gs89rg
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4621163
+  title: Genome Mining of Salinispora Uncovers a Repertoire of Secondary Metabolites
+    and Carbohydrate-Active Enzymes
+  authors:
+  - Md. Saddam Hossain
+  - Md. Tarikul Islam
+  - Md. Hadisur Rahman
+  - Abdullah Al Zubaer
+  - Abu Hashem
+  publisher: Elsevier BV
+  date: '2023-01-01'
+  link: https://doi.org/hbpkd7
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.09.29.560222
+  title: "Genome Mining of\n                  <i>Salinispora</i>\n               \
+    \   Uncovers a Repertoire of Secondary Metabolites and Carbohydrate-Active Enzymes"
+  authors:
+  - Md. Saddam Hossain
+  - Md. Tarikul Islam
+  - Md. Hadisur Rahman
+  - Abdullah Al Zubaer
+  - Abu Hashem
+  publisher: openRxiv
+  date: '2023-10-02'
+  link: https://doi.org/hbpkd8
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-99-3901-5_17
+  title: The impact of textile dyes on the environment
+  authors:
+  - Tanzina Akter
+  - Anica Tasnim Protity
+  - Modhusudon Shaha
+  - Mohammad Al Mamun
+  - Abu Hashem
+  publisher: "Nanohybrid materials for treatment of textiles dyes, 401\u2013431"
+  date: '2023-01-01'
+  link: https://doi.org/10.1007/978-981-99-3901-5_17
+  orcid: 0000-0002-0033-7346
+  plugin: sources.py
+  file: sources.yaml
+  type: book-chapter
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1007/978-981-99-3901-5_17
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=The%20impact%20of%20textile%20dyes%20on%20the%20environment
+  tags:
+  - book-chapter
+- id: doi:10.21315/mjms2022.29.6.3
+  title: Advancements in Detection Approaches of Severe Acute Respiratory Syndrome
+    Coronavirus 2
+  authors:
+  - M. A. Motalib Hossain
+  - Syed Muhammad Kamal Uddin
+  - Abu Hashem
+  - Mohammad Al Mamun
+  - Suresh Sagadevan
+  - Mohd Rafie Johan
+  publisher: Malaysian Journal of Medical Sciences
+  date: '2022-12-22'
+  link: https://doi.org/g7z8n6
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3762/bjnano.13.120
+  title: Rapid and sensitive detection of box turtles using an electrochemical DNA
+    biosensor based on a gold/graphene nanocomposite
+  authors:
+  - Abu Hashem
+  - M A Motalib Hossain
+  - Ab Rahman Marlinda
+  - Mohammad Al Mamun
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  publisher: Beilstein Journal of Nanotechnology
+  date: '2022-12-06'
+  link: https://doi.org/hctn8q
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/978-0-7503-4791-4ch7
+  title: The role of the proton exchange membrane (PEM) in microbial fuel cell performance
+  authors:
+  - Tanzina Akter
+  - Modhusudon Shaha
+  - Mohammad Al Mamun
+  - Md Abu Sayem Khan
+  - Abu Hashem
+  publisher: Microbial Fuel Cells
+  date: '2022-12-01'
+  link: https://doi.org/hctn8r
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22452/mcij.vol2no1.1
+  title: 'Scrap Gold Recovery: Recycling, Fabrication and Electrochemical Characterization
+    of Low-Cost Gold Electrode'
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - Hossain Hossain
+  - Abu Hashem
+  - Mohd Rafie Johan
+  publisher: Malaysian Catalysis-An International Journal
+  date: '2022-10-21'
+  link: https://doi.org/hctn8s
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icse56004.2022.9863176
+  title: Electrochemistry of Green Ag Nanoparticles Modified Electrode Surface
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - M. A. Motalib Hossain
+  - Abu Hashem
+  - Kamrul Alam Khan
+  - Mohd Rafie Johan
+  - Hanim Hussin
+  - Nurul Ezaila Alias
+  publisher: 2022 IEEE International Conference on Semiconductor Electronics (ICSE)
+  date: '2022-08-15'
+  link: https://doi.org/hctn8t
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Applications of nanocellulose as biosensing platforms for the detection
+    of functional biomacromolecules: A Review'
+  publisher: Malaysian NANO-An International Journal
+  date: '2022-09-24'
+  link: https://jummec.um.edu.my/index.php/MNIJ/article/view/36782
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-19-2681-5_17
+  title: Application of Microbial Fuel Cells as Biosensors
+  authors:
+  - Abu Hashem
+  - Khanom Simarani
+  - Ab Rahman Marlinda
+  - M. A. Motalib Hossain
+  - Mohammad Al Mamun
+  - Mohd Rafie Johan
+  publisher: Sustainable Materials and Technology
+  date: '2022-01-01'
+  link: https://doi.org/hctn8v
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4054618
+  title: Graphene Decorated Gold Nanoparticles Modified Screen-Printed Carbon Electrode
+    for Detection of Pork Adulteration
+  authors:
+  - Abu Hashem
+  - Marlinda A. R.
+  - M.  A. Motalib Hossain
+  - Mohammad Al Mamun
+  - Md Shalauddin
+  - KHANOM SIMARANI
+  - Mohd Rafie Johan
+  publisher: Elsevier BV
+  date: '2022-01-01'
+  link: https://doi.org/hctn8w
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.virusres.2022.198859
+  title: Identification of a novel variant of hepatitis B virus isolated from patient
+    co-infected with hepatitis C virus
+  authors:
+  - Modhusudon Shaha
+  - Sumen Majumder
+  - Md Saddam Hossain
+  - Munira Jahan
+  - Raad Rahmat
+  - Ridwana Asma
+  - Mohammad Ariful Islam
+  - Md. Hadisur Rahman
+  - Keshob Chandra Das
+  - Palash Kumar Sarker
+  - Mamun Al Mahtab
+  - Sheikh Mohammad Fazle Akbar
+  - Md Salimullah
+  publisher: Virus Research
+  date: '2022-10-01'
+  link: https://doi.org/hbpkd9
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10408363.2021.1997898
+  title: 'Nucleic acid-based electrochemical biosensors for rapid clinical diagnosis:
+    advances, challenges, and opportunities'
+  authors:
+  - Abu Hashem
+  - M. A. Motalib Hossain
+  - Ab Rahman Marlinda
+  - Mohammad Al Mamun
+  - Suresh Sagadevan
+  - Zohreh Shahnavaz
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  publisher: Critical Reviews in Clinical Laboratory Sciences
+  date: '2021-12-01'
+  link: https://doi.org/hctn8x
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mcp.2021.101758
+  title: 'DNA/Nano based advanced genetic detection tools for authentication of species:
+    Strategies, prospects and limitations'
+  authors:
+  - Ibrahim Khalil
+  - Abu Hashem
+  - Amit R. Nath
+  - Nurhidayatullaili Muhd Julkapli
+  - Wageeh A. Yehye
+  - Wan Jeffrey Basirun
+  publisher: Molecular and Cellular Probes
+  date: '2021-10-01'
+  link: https://doi.org/hctn8z
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.apsadv.2021.100064
+  title: 'Nanomaterials based electrochemical nucleic acid biosensors for environmental
+    monitoring: A review'
+  authors:
+  - Abu Hashem
+  - M.A. Motalib Hossain
+  - Ab Rahman Marlinda
+  - Mohammad Al Mamun
+  - Khanom Simarani
+  - Mohd Rafie Johan
+  publisher: Applied Surface Science Advances
+  date: '2021-06-01'
+  link: https://doi.org/hctn82
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s43141-021-00149-8
+  title: Keratinolytic protease from Pseudomonas aeruginosa for leather skin processing
+  authors:
+  - Yeasmin Akter Moonnee
+  - Md Javed Foysal
+  - Abu Hashem
+  - Md Faruque Miah
+  publisher: Journal of Genetic Engineering and Biotechnology
+  date: '2021-12-01'
+  link: https://doi.org/g6fx8d
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.TRAC.2021.116458
+  title: 'Electrochemical biosensors with Aptamer recognition layer for the diagnosis
+    of pathogenic bacteria: Barriers to commercialization and remediation'
+  authors:
+  - Mohammad Al Mamun
+  - Yasmin Abdul Wahab
+  - M.A. Motalib Hossain
+  - Abu Hashem
+  - Mohd Rafie Johan
+  publisher: TrAC Trends in Analytical Chemistry
+  date: '2021-12-01'
+  link: https://doi.org/hctn83
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3329/bjm.v37i1.51205
+  title: Isolation and Characterization of Electrogenic Bacteria from Tannery Wastewater
+  authors:
+  - Ekramul Islam
+  - Md Saddam Hossain
+  - Palash Kumar Sarker
+  - Syeda Tasneem Towhid
+  - '- Md Salimullah'
+  - Abu Hashem
+  publisher: Bangladesh Journal of Microbiology
+  date: '2020-06-30'
+  link: https://doi.org/hbpkfb
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14458/RSU.RES.2020.37
+  title: Applications and innovative approaches of Nucleic Acid based Electrochemical
+    Biosensor in Clinical Diagnosis
+  authors:
+  - Abu Hashem
+  publisher: RANGSIT UNIVERSITY
+  date: '2020-01-01'
+  link: https://doi.org/hctn84
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-822360-4.00007-8
+  title: DNA-based methods for species identification in food forensic science
+  authors:
+  - M.A. Motalib Hossain
+  - Syed Muhammad Kamal Uddin
+  - Sharmin Sultana
+  - Abu Hashem
+  - Myrto Rizou
+  - Turki M.S. Aldawoud
+  - Charis M. Galanakis
+  - Mohd Rafie Johan
+  publisher: Food Toxicology and Forensics
+  date: '2021-01-01'
+  link: https://doi.org/hctn85
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:2707-7888
+  title: Making sure you're not a bot!
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/2707-7888
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.24966/aib-5665/100010
+  title: Microbial Fuel Cell (MFC) Application for Generation of Electricity from
+    Dumping Rubbish and Identification of Potential Electrogenic Bacteria
+  authors:
+  - Abu Hashem
+  publisher: Advances in Industrial Biotechnology
+  date: '2019-04-01'
+  link: https://doi.org/hctn86
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3329/bjm.v35i1.39800
+  title: Generation of Electricity Using Microbial Fuel Cell (MFC) from Sludge
+  authors:
+  - Eti Barua
+  - Md Saddam Hossain
+  - Modhusudon Shaha
+  - Ekramul Islam
+  - Fatema Tuj Zohora
+  - Anica Tasnim Protity
+  - Sanjoy Kumar Mukharjee
+  - Palash Kumar Sarker
+  - Md Salimullah
+  - Abu Hashem
+  publisher: Bangladesh Journal of Microbiology
+  date: '2019-01-15'
+  link: https://doi.org/hbpkfc
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/f1000research.15090.3
+  title: Analysis of the complete genome of hepatitis B virus subgenotype C2 isolate
+    NHB17965 from a HBV infected patient
+  authors:
+  - Modhusudon Shaha
+  - Palash Kumar Sarker
+  - Md. Saddam Hossain
+  - Keshob Chandra Das
+  - Munira Jahan
+  - Shuvra Kanti Dey
+  - Shahina Tabassum
+  - Abu Hashem
+  - Md. Salimullah
+  publisher: F1000Research
+  date: '2018-09-10'
+  link: https://doi.org/hbpkfh
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/f1000research.15090.2
+  title: Analysis of the complete genome of hepatitis B virus subgenotype C2 isolate
+    NHB17965 from a patient with uncomplicated chronicity
+  authors:
+  - Modhusudon Shaha
+  - Palash Kumar Sarker
+  - Md. Saddam Hossain
+  - Keshob Chandra Das
+  - Munira Jahan
+  - Shuvra Kanti Dey
+  - Shahina Tabassum
+  - Abu Hashem
+  - Md. Salimullah
+  publisher: F1000Research
+  date: '2018-08-13'
+  link: https://doi.org/gd9pxb
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fchem.2018.00246
+  title: An Immunopharmacoinformatics Approach in Development of Vaccine and Drug
+    Candidates for West Nile Virus
+  authors:
+  - Mohammad Uzzal Hossain
+  - Chaman Ara Keya
+  - Keshob Chandra Das
+  - Abu Hashem
+  - Taimur Md. Omar
+  - Md. Arif Khan
+  - S. M. Rakib-Uz-Zaman
+  - Md. Salimullah
+  publisher: Frontiers in Chemistry
+  date: '2018-07-06'
+  link: https://doi.org/gdv7q8
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomeA.01601-17
+  title: Complete Genome Sequence of a Circulating Hepatitis B Virus Genotype C Strain
+    Isolated from a Chronically Infected Patient Identified at an Outdoor Hospital
+    in Bangladesh
+  authors:
+  - Modhusudon Shaha
+  - Keshob Chandra Das
+  - M. Saddam Hossain
+  - Munira Jahan
+  - Abu Hashem
+  - Sabita Rezwana Rahman
+  - M. Salimullah
+  publisher: Genome Announcements
+  date: '2018-03-01'
+  link: https://doi.org/hbpkff
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Detection of Genetic Alteration of Polymerase Protein of Hepatitis B Virus
+    Strain C2 Isolated From Bangladesh
+  publisher: Advances in Biotechnology & Microbiology
+  date: '2018-11-20'
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.virusres.2018.07.014
+  title: Identification of a novel tri-genotypic recombinant Hepatitis B virus in
+    Bangladesh
+  authors:
+  - Modhusudon Shaha
+  - Md. Hadisur Rahman
+  - Munira Jahan
+  - Shuvra Kanti Dey
+  - Keshob Chandra Das
+  - Abu Hashem
+  - Md. Salimullah
+  publisher: Virus Research
+  date: '2018-08-01'
+  link: https://doi.org/gd9pxm
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s13337-018-0497-6
+  title: Molecular evolution and genomics of hepatitis B virus subgenotype C2 strain
+    predominant in the chronic patients in Bangladesh
+  authors:
+  - Modhusudon Shaha
+  - Sourav Chakraborty
+  - Md. Saddam Hossain
+  - Abu Hashem
+  - Md. Salimullah
+  publisher: VirusDisease
+  date: '2018-10-17'
+  link: https://doi.org/hbpkfj
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13568-017-0462-6
+  title: Production, partial optimization and characterization of keratinase enzyme
+    by Arthrobacter sp. NFH5 isolated from soil samples
+  authors:
+  - Nirmal Chandra Barman
+  - Fatema Tuj Zohora
+  - Keshob Chandra Das
+  - Md. Golam Mowla
+  - Nilufa Akhter Banu
+  - Md. Salimullah
+  - Abu Hashem
+  publisher: AMB Express
+  date: '2017-09-21'
+  link: https://doi.org/hctn87
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fmicb.2016.01817
+  title: Finding Potential Therapeutic Targets against Shigella flexneri through Proteome
+    Exploration
+  authors:
+  - Mohammad Uzzal Hossain
+  - Md. Arif Khan
+  - Abu Hashem
+  - Md. Monirul Islam
+  - Mohammad Neaz Morshed
+  - Chaman Ara Keya
+  - Md. Salimullah
+  publisher: Frontiers in Microbiology
+  date: '2016-11-22'
+  link: https://doi.org/hctn88
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fphar.2016.00153
+  title: Therapeutics Insight with Inclusive Immunopharmacology Explication of Human
+    Rotavirus A for the Treatment of Diarrhea
+  authors:
+  - Mohammad Uzzal Hossain
+  - Abu Hashem
+  - Chaman Ara Keya
+  - Md. Salimullah
+  publisher: Frontiers in Pharmacology
+  date: '2016-06-23'
+  link: https://doi.org/hctn89
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Isolation, Purification and Characterization of an Extracellular Protease
+    from a Locally Isolated Bacillus sphaericus SI-1
+  publisher: Bioresearch Communications (BRC)
+  date: '2021-05-28'
+  link: http://www.bioresearchcommunications.com/index.php/brc/article/view/51
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3329/JUJBS.V4I2.27796
+  title: In vitro clonal propagation of BARI Ada-1 (Zingiber officinale Rosc.)
+  authors:
+  - S Yesmin
+  - A Hashem
+  - MM Khatun
+  - S Nasrin
+  - T Tanny
+  - MS Islam
+  publisher: Jahangirnagar University Journal of Biological Sciences
+  date: '2016-05-18'
+  link: https://doi.org/hctn9b
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3329/JUJBS.V4I1.27786
+  title: Micropropagation of an important medicinal herb Eclipta alba (L.) Hassk.
+  authors:
+  - S Yesmin
+  - A Hashem
+  - MS Islam
+  publisher: Jahangirnagar University Journal of Biological Sciences
+  date: '2016-05-18'
+  link: https://doi.org/hctn9c
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Agrobacterium- Mediated Transformation of Eggplant (Solanum Melongena L.)
+    Using Cotyledon Explants
+  publisher: Nuclear Science and Applications
+  date: '2018-11-20'
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Efficient In Vitro Regeneration of Chrysanthemum (Chrysanthemum morifolium
+    Ramat.) Through Nodal Explant Culture.
+  publisher: Nuclear Science and Applications
+  date: '2018-11-20'
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Bacteriological Quality Assessment of Decorative fountains in Dhaka City
+  publisher: Bangladesh Journal of Environmental Research
+  date: '2018-11-20'
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Mass Production of Strawberry Plants Through Microporpagation
+  publisher: Eco-Friendly Agriculture Journal
+  date: '2018-11-20'
+  orcid: 0000-0002-0033-7346
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11756-025-01866-Y
+  title: 'Exploration of the metabolic potential of the Corallococcus genus: a rich
+    source of secondary metabolites and CAZymes'
+  authors:
+  - Md. Saddam Hossain
+  - Shanjana Rahman Tuli
+  - Nigar Fatima
+  - Md. Tauhidul Islam Tanim
+  - Abu Hashem
+  publisher: Biologia
+  date: '2025-01-21'
+  link: https://doi.org/hbpkd4
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JGEB.2025.100508
+  title: 'Exploring the antibacterial potential of environmental Pseudomonas aeruginosa
+    isolates: Insights from in vitro studies and genome mining approaches'
+  authors:
+  - Md. Saddam Hossain
+  - Afroza Aktar Sharna
+  - Sumaiya Sharmin
+  - Tahrima Arman Tusty
+  - Abu Hashem
+  - Palash Kumar Sarker
+  publisher: Journal of Genetic Engineering and Biotechnology
+  date: '2025-09-01'
+  link: https://doi.org/hbpkd5
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12602-025-10775-0
+  title: "Three Characterized Probiotics from Dairy Sources\u2014Weissella confusa\
+    \ (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)\u2014\
+    Exhibit Potential for Antidiarrheal Effects"
+  authors:
+  - Jannatul Ferdous
+  - Md. Saddam Hossain
+  - Palash Kumar Sarker
+  - Md. Shimul Bhuia
+  - Md. Sakib Al Hasan
+  - Raihan Chowdhury
+  - Md. Sarafat Ali
+  - Md. Robiul Auwal
+  - Keshob Chandra Das
+  - Muhammad Torequl Islam
+  - Abu Hashem
+  - Md. Salimullah
+  publisher: "Probiotics and Antimicrobial Proteins, 18(3), 4380\u20134395"
+  date: '2026-01-01'
+  link: https://doi.org/10.1007/s12602-025-10775-0
+  orcid: 0000-0001-7735-9888
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/pub-probiotics-2026.svg
+  description: Characterizes three indigenous dairy-derived lactic acid bacterial
+    strains and evaluates their gastrointestinal resilience, safety, and antidiarrheal
+    potential.
+  buttons:
+  - icon: fa-solid fa-up-right-from-square
+    text: DOI
+    link: https://doi.org/10.1007/s12602-025-10775-0
+  - icon: fa-solid fa-graduation-cap
+    text: Scholar
+    link: https://scholar.google.com/scholar?q=Three%20Characterized%20Probiotics%20from%20Dairy%20Sources%E2%80%94Weissella%20confusa%20(ProY%205.1)%2C%20Enterococcus%20lactis%20(ProY%205.3)%2C%20and%20Leuconostoc%20lactis%20(RM%202.1)%E2%80%94Exhibit%20Potential%20for%20Antidiarrheal%20Effects
+  tags:
+  - probiotics
+  - amr
+- id: doi:10.3329/BJM.V37I1.51205
+  title: Isolation and Characterization of Electrogenic Bacteria from Tannery Wastewater
+  authors:
+  - Ekramul Islam
+  - Md Saddam Hossain
+  - Palash Kumar Sarker
+  - Syeda Tasneem Towhid
+  - '- Md Salimullah'
+  - Abu Hashem
+  publisher: Bangladesh Journal of Microbiology
+  date: '2020-06-30'
+  link: https://doi.org/hbpkfb
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3329/BJM.V35I1.39800
+  title: Generation of Electricity Using Microbial Fuel Cell (MFC) from Sludge
+  authors:
+  - Eti Barua
+  - Md Saddam Hossain
+  - Modhusudon Shaha
+  - Ekramul Islam
+  - Fatema Tuj Zohora
+  - Anica Tasnim Protity
+  - Sanjoy Kumar Mukharjee
+  - Palash Kumar Sarker
+  - Md Salimullah
+  - Abu Hashem
+  publisher: Bangladesh Journal of Microbiology
+  date: '2019-01-15'
+  link: https://doi.org/hbpkfc
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/f1000research.15090.1
+  title: Analysis of the complete genome of hepatitis B virus subgenotype C2 isolate
+    NHB17965 from a patient with uncomplicated chronicity
+  authors:
+  - Modhusudon Shaha
+  - Palash Kumar Sarker
+  - Md. Saddam Hossain
+  - Keshob Chandra Das
+  - Munira Jahan
+  - Shuvra Kanti Dey
+  - Shahina Tabassum
+  - Abu Hashem
+  - Md. Salimullah
+  publisher: F1000Research
+  date: '2018-07-09'
+  link: https://doi.org/hbpkfd
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5256/f1000research.16434.r35849
+  title: 'Peer Review Report For: Analysis of the complete genome of hepatitis B virus
+    subgenotype C2 isolate NHB17965 from a patient with uncomplicated chronicity [version
+    1; peer review: 1 approved, 1 not approved]'
+  authors: []
+  publisher: F1000 Research Ltd
+  date: '2018-07-23'
+  link: https://doi.org/hbpkfg
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/F1000RESEARCH.15090.3
+  title: Analysis of the complete genome of hepatitis B virus subgenotype C2 isolate
+    NHB17965 from a HBV infected patient
+  authors:
+  - Modhusudon Shaha
+  - Palash Kumar Sarker
+  - Md. Saddam Hossain
+  - Keshob Chandra Das
+  - Munira Jahan
+  - Shuvra Kanti Dey
+  - Shahina Tabassum
+  - Abu Hashem
+  - Md. Salimullah
+  publisher: F1000Research
+  date: '2018-09-10'
+  link: https://doi.org/hbpkfh
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Analysis of complete genome of hepatitis B virus for potential mutations
+    to relate with chronicity
+  date: '2019-04-18'
+  orcid: 0000-0001-7735-9888
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-981-95-3612-2_14
   title: Applications of nanotechnology in healthcare
   authors:
@@ -74,73 +1092,6 @@
   - biosensors
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/s12602-025-10775-0
-  title: "Three Characterized Probiotics from Dairy Sources\u2014Weissella confusa\
-    \ (ProY 5.1), Enterococcus lactis (ProY 5.3), and Leuconostoc lactis (RM 2.1)\u2014\
-    Exhibit Potential for Antidiarrheal Effects"
-  authors:
-  - Jannatul Ferdous
-  - Md. Saddam Hossain
-  - Palash Kumar Sarker
-  - Md. Shimul Bhuia
-  - Md. Sakib Al Hasan
-  - Raihan Chowdhury
-  - Md. Sarafat Ali
-  - Md. Robiul Auwal
-  - Keshob Chandra Das
-  - Muhammad Torequl Islam
-  - Abu Hashem
-  - Md. Salimullah
-  publisher: "Probiotics and Antimicrobial Proteins, 18(3), 4380\u20134395"
-  date: '2026-01-01'
-  link: https://doi.org/10.1007/s12602-025-10775-0
-  type: paper
-  image: images/pub-probiotics-2026.svg
-  description: Characterizes three indigenous dairy-derived lactic acid bacterial
-    strains and evaluates their gastrointestinal resilience, safety, and antidiarrheal
-    potential.
-  buttons:
-  - icon: fa-solid fa-up-right-from-square
-    text: DOI
-    link: https://doi.org/10.1007/s12602-025-10775-0
-  - icon: fa-solid fa-graduation-cap
-    text: Scholar
-    link: https://scholar.google.com/scholar?q=Three%20Characterized%20Probiotics%20from%20Dairy%20Sources%E2%80%94Weissella%20confusa%20(ProY%205.1)%2C%20Enterococcus%20lactis%20(ProY%205.3)%2C%20and%20Leuconostoc%20lactis%20(RM%202.1)%E2%80%94Exhibit%20Potential%20for%20Antidiarrheal%20Effects
-  tags:
-  - probiotics
-  - amr
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.microb.2025.100562
-  title: A Comprehensive Pangenome Approach to Exploring the Probiotic Potential of
-    Weissella Confusa
-  authors:
-  - Md Saddam Hossain
-  - Shanjana Rahman Tuli
-  - Nigar Fatima
-  - Sobur Ali
-  - Shovan Basak Moon
-  - Abu Hashem
-  publisher: The Microbe, 100562
-  date: '2025-01-01'
-  link: https://doi.org/10.1016/j.microb.2025.100562
-  type: paper
-  image: images/pub-weissella-2025.svg
-  description: Comparative pangenome-scale analysis mapping core and accessory probiotic
-    traits, carbohydrate-active enzymes, and safety determinants across Weissella
-    confusa.
-  buttons:
-  - icon: fa-solid fa-up-right-from-square
-    text: DOI
-    link: https://doi.org/10.1016/j.microb.2025.100562
-  - icon: fa-solid fa-graduation-cap
-    text: Scholar
-    link: https://scholar.google.com/scholar?q=A%20Comprehensive%20Pangenome%20Approach%20to%20Exploring%20the%20Probiotic%20Potential%20of%20Weissella%20Confusa
-  tags:
-  - probiotics
-  - genomics
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/978-3-031-97481-6_9
   title: Advances in microbial-based electrochemical biosensors for heavy metal detection
   authors:
@@ -164,29 +1115,6 @@
   - book-chapter
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.71193/jcid.20250002
-  title: 'Antioxidant activity of promising probiotic potential Lactobacillus plantarum:
-    a review'
-  authors:
-  - Jannatul Ferdous
-  - Raihan Chowdhury
-  - Md Sarafat Ali
-  - Abu Hashem
-  publisher: "Journal of Chemistry Insights and Discoveries, 1(01), 1\u20136"
-  date: '2025-01-01'
-  link: https://doi.org/10.71193/jcid.20250002
-  type: paper
-  buttons:
-  - icon: fa-solid fa-up-right-from-square
-    text: DOI
-    link: https://doi.org/10.71193/jcid.20250002
-  - icon: fa-solid fa-graduation-cap
-    text: Scholar
-    link: https://scholar.google.com/scholar?q=Antioxidant%20activity%20of%20promising%20probiotic%20potential%20Lactobacillus%20plantarum%3A%20a%20review
-  tags:
-  - probiotics
-  plugin: sources.py
-  file: sources.yaml
 - title: Application of Biomaterials for Tissue Engineering
   authors:
   - Abu Hashem
@@ -205,33 +1133,6 @@
     link: https://scholar.google.com/scholar?q=Application%20of%20Biomaterials%20for%20Tissue%20Engineering
   tags:
   - book-chapter
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s11756-025-01866-y
-  title: 'Exploration of the metabolic potential of the Corallococcus genus: a rich
-    source of secondary metabolites and CAZymes'
-  authors:
-  - Md Saddam Hossain
-  - Shanjana Rahman Tuli
-  - Nigar Fatima
-  - Md Tauhidul Islam Tanim
-  - Abu Hashem
-  publisher: "Biologia, 80(3), 685\u2013696"
-  date: '2025-01-01'
-  link: https://doi.org/10.1007/s11756-025-01866-y
-  type: paper
-  image: images/pub-corallococcus-2025.svg
-  description: Genome-wide biosynthetic gene cluster (BGC) and CAZyme repertoire mining
-    across myxobacterial Corallococcus genomes for natural-product discovery.
-  buttons:
-  - icon: fa-solid fa-up-right-from-square
-    text: DOI
-    link: https://doi.org/10.1007/s11756-025-01866-y
-  - icon: fa-solid fa-graduation-cap
-    text: Scholar
-    link: https://scholar.google.com/scholar?q=Exploration%20of%20the%20metabolic%20potential%20of%20the%20Corallococcus%20genus%3A%20a%20rich%20source%20of%20secondary%20metabolites%20and%20CAZymes
-  tags:
-  - drug-discovery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jgeb.2025.100508
@@ -341,33 +1242,6 @@
     link: https://scholar.google.com/scholar?q=More%20land%2C%20more%20diverse%20diets%3F%20Exploring%20production%20and%20consumption%20trade-offs%20in%20the%20eastern%20Indo-Gangetic%20plains
   tags:
   - biotechnology
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.neulet.2024.138007
-  title: "Phytol exerts sedative-like effects and modulates the diazepam and flumazenil\u2019\
-    s action, possibly through the GABAA receptor interaction pathway"
-  authors:
-  - Md Torequl Islam
-  - Jannatul Ferdous
-  - Md Sakib Al Hasan
-  - Abu Hashem
-  - Mehedi Hasan Bappi
-  - Siddique Akber Ansari
-  - Md Amirul Islam
-  - Md Saifuzzaman
-  publisher: Neuroscience Letters, 842, 138007
-  date: '2024-01-01'
-  link: https://doi.org/10.1016/j.neulet.2024.138007
-  type: paper
-  buttons:
-  - icon: fa-solid fa-up-right-from-square
-    text: DOI
-    link: https://doi.org/10.1016/j.neulet.2024.138007
-  - icon: fa-solid fa-graduation-cap
-    text: Scholar
-    link: https://scholar.google.com/scholar?q=Phytol%20exerts%20sedative-like%20effects%20and%20modulates%20the%20diazepam%20and%20flumazenil%E2%80%99s%20action%2C%20possibly%20through%20the%20GABAA%20receptor%20interaction%20pathway
-  tags:
-  - drug-discovery
   plugin: sources.py
   file: sources.yaml
 - title: A unique oligonucleotide probe hybrid on graphene decorated gold nanoparticles
@@ -602,29 +1476,6 @@
     link: https://scholar.google.com/scholar?q=Prevalence%20of%20Multidrug-Resistant%20Salmonella%20in%20Raw%20Salad%20Vegetables%20in%20Dhaka%20Metropolitan%20Area
   tags:
   - amr
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/978-981-99-3901-5_17
-  title: The impact of textile dyes on the environment
-  authors:
-  - Tanzina Akter
-  - Anica Tasnim Protity
-  - Modhusudon Shaha
-  - Mohammad Al Mamun
-  - Abu Hashem
-  publisher: "Nanohybrid materials for treatment of textiles dyes, 401\u2013431"
-  date: '2023-01-01'
-  link: https://doi.org/10.1007/978-981-99-3901-5_17
-  type: book-chapter
-  buttons:
-  - icon: fa-solid fa-up-right-from-square
-    text: DOI
-    link: https://doi.org/10.1007/978-981-99-3901-5_17
-  - icon: fa-solid fa-graduation-cap
-    text: Scholar
-    link: https://scholar.google.com/scholar?q=The%20impact%20of%20textile%20dyes%20on%20the%20environment
-  tags:
-  - book-chapter
   plugin: sources.py
   file: sources.yaml
 - title: 'Unraveling Coinfection Dynamics into 100 Whole Genome of Diarrheal Pathogens:
